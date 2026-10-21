@@ -108,5 +108,6 @@ Route::get('robots.txt', [SeoController::class, 'robots'])->name('robots');
 Route::post('forms/enquiry', [FormController::class, 'enquiry'])->middleware('throttle:forms')->name('forms.enquiry');
 Route::post('forms/careers', [FormController::class, 'careers'])->middleware('throttle:forms')->name('forms.careers');
 
+Route::get('thank-you', [FormController::class, 'thanks'])->name('thanks');
 Route::get('/{slug?}', [PageController::class, 'show'])->where('slug', '[a-z0-9]+(?:-[a-z0-9]+)*')->name('page');
 Route::fallback([PageController::class, 'fallback']);

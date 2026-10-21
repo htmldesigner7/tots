@@ -14,6 +14,7 @@
         <h2 id="{{ $hid }}">{{ $menu['title'] }}</h2>
         <ul>
           @foreach($menu['items'] as $item)
+          @continue($item['style'] === 'visit')
           <li><a href="{{ $item['href'] }}"@if($item['style'] === 'visit') class="footer__visit"@endif{!! $item['target_attr'] !!}>{{ $item['label'] }}@if($item['style'] === 'visit') <svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M2 8 8 2M3.5 2H8v4.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>@endif</a></li>
           @endforeach
         </ul>

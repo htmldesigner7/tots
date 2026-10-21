@@ -52,6 +52,13 @@ class FormController extends Controller
         return $this->done($request, 'careers', 'Thank you for applying! The school will get in touch soon.');
     }
 
+    public function thanks(Request $request)
+    {
+        $form = $request->query('form') === 'careers' ? 'careers' : 'enquiry';
+
+        return response()->view('site.thanks', ['form' => $form]);
+    }
+
     private function base(Request $request, string $form): array
     {
         return [
@@ -78,9 +85,9 @@ class FormController extends Controller
     private function done(Request $request, string $form, string $message): JsonResponse|RedirectResponse
     {
         if ($request->expectsJson()) {
-            return response()->json(['message' => $message]);
+            return response()->json(['message' => $message, 'redirect' => route('thanks', ['form' => $form])]);
         }
 
-        return redirect()->to(\App\Support\FormAnchor::back($request))->with('form_status.'.$form, $message);
+        return redirect()->route('thanks', ['form' => $form]);
     }
 }

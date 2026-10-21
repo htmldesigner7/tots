@@ -148,8 +148,8 @@ return [
             'notify_email' => ['type' => 'email', 'label' => 'Send new enquiries to (leave empty to only store them)', 'default' => '', 'rules' => 'nullable|email|max:120'],
             'careers_email' => ['type' => 'email', 'label' => 'Send job applications to', 'default' => '', 'rules' => 'nullable|email|max:120'],
             'enquiry_centres' => ['type' => 'textarea', 'label' => 'Enquiry form: centres (one per line)', 'default' => "Zundal\nLilapur", 'rules' => 'required|string|max:1000'],
-            'enquiry_programmes' => ['type' => 'textarea', 'label' => 'Enquiry form: programmes (one per line)', 'default' => "Mother-Infant\nPlaygroup\nNursery\nJunior KG (K1)\nSenior KG (K2)", 'rules' => 'required|string|max:1000'],
-            'careers_positions' => ['type' => 'textarea', 'label' => 'Careers form: positions (one per line)', 'default' => "[Position 1]\n[Position 2]", 'rules' => 'required|string|max:1000'],
+            'enquiry_programmes' => ['type' => 'textarea', 'label' => 'Enquiry form: programmes (one per line)', 'default' => "Mother-Infant\nPlaygroup\nNursery\nLKG (K1)\nUKG (K2)", 'rules' => 'required|string|max:1000'],
+            'careers_positions' => ['type' => 'textarea', 'label' => 'Careers form: positions (one per line)', 'default' => "Early Years Educator\nAssistant Teacher\nOther", 'rules' => 'required|string|max:1000'],
             'privacy_url' => ['type' => 'link', 'label' => 'Privacy policy link (forms)', 'default' => '#privacy-policy', 'rules' => 'nullable|string|max:255'],
         ],
         'Social' => [

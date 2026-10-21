@@ -201,20 +201,54 @@
         f.setAttribute('aria-describedby', id);
       }
     };
+    var requiredMsg = {
+      name: 'Please enter your name.', phone: 'Please enter your phone number.', email: 'Please enter your email address.',
+      centre: 'Please select a centre.', programme: 'Please select a programme.', position: 'Please select a position.',
+      qualification: 'Please enter your qualification.', cv: 'Please upload your CV.', consent: 'Please tick the box to continue.'
+    };
+    var phoneRe = new RegExp('^[+0-9][0-9 ()-]{6,}$');
+    var emailRe = new RegExp('^[^ @]+@[^ @]+[.][^ @]{2,}$');
+    // returns an error message for a field, or '' when it is fine
+    var check = function (f) {
+      var v = f.type === 'checkbox' || f.type === 'file' ? '' : f.value.trim();
+      if (f.required) {
+        var empty = f.type === 'checkbox' ? !f.checked : f.type === 'file' ? !f.files.length : !v;
+        if (empty) return requiredMsg[f.name] || 'This field is required.';
+      }
+      if (f.type === 'tel' && v && !phoneRe.test(v)) return 'Please enter a valid phone number.';
+      if (f.type === 'email' && v && !emailRe.test(v)) return 'Please enter a valid email address.';
+      if (f.type === 'file' && f.files.length) {
+        var file = f.files[0], ext = (file.name.split('.').pop() || '').toLowerCase();
+        var okExt = f.name === 'cv' ? ['pdf', 'doc', 'docx'] : ['jpg', 'jpeg', 'png', 'webp'];
+        if (okExt.indexOf(ext) < 0) return f.name === 'cv' ? 'Please upload your CV as a PDF or Word document.' : 'Please upload a JPG, PNG or WebP image.';
+        if (file.size > 5 * 1024 * 1024) return 'The file must be smaller than 5 MB.';
+      }
+      if (f.maxLength > 0 && v.length > f.maxLength) return 'Please keep this under ' + f.maxLength + ' characters.';
+      return '';
+    };
+    var validateField = function (f) {
+      var old = f.type === 'checkbox' ? f.closest('label') : f;
+      var n = old && old.nextElementSibling; if (n && n.classList.contains('cms-err')) n.remove();
+      var msg = check(f);
+      f.classList.toggle('is-invalid', !!msg);
+      if (msg) mark(f, msg); else { f.removeAttribute('aria-invalid'); f.removeAttribute('aria-describedby'); }
+      return !msg;
+    };
+    form.querySelectorAll('input:not([type=hidden]):not([type=radio]),select,textarea').forEach(function (f) {
+      if (f.closest('.cms-hp')) return;
+      f.addEventListener('blur', function () { if (f.value || f.files && f.files.length || f.required) validateField(f); });
+      f.addEventListener(f.tagName === 'SELECT' || f.type === 'file' || f.type === 'checkbox' ? 'change' : 'input', function () { if (f.classList.contains('is-invalid')) validateField(f); });
+    });
     form.addEventListener('submit', function (e) {
       var ok = true, first = null;
       clearErrors();
-      form.querySelectorAll('[required]').forEach(function (f) {
-        var bad = f.type === 'checkbox' ? !f.checked : (f.type === 'file' ? !f.files.length : !f.value.trim());
-        if (f.type === 'tel' && f.value.trim() && !/^[+\d][\d\s()-]{6,}$/.test(f.value.trim())) bad = true;
-        if (f.type === 'email' && f.value.trim() && !/^\S+@\S+\.\S+$/.test(f.value.trim())) bad = true;
-        f.classList.toggle('is-invalid', bad);
-        f.setAttribute('aria-invalid', String(bad));
-        if (bad) { ok = false; if (!first) first = f; }
+      form.querySelectorAll('input:not([type=hidden]):not([type=radio]),select,textarea').forEach(function (f) {
+        if (f.closest('.cms-hp')) return;
+        if (!validateField(f)) { ok = false; if (!first) first = f; }
       });
       if (!ok) {
         e.preventDefault();
-        if (status) status.textContent = 'Please fill in the highlighted fields.';
+        if (status) status.textContent = 'Please fix the highlighted fields.';
         if (first) first.focus();
         return;
       }
@@ -231,6 +265,7 @@
       }).then(function (r) {
         if (r.res.ok) {
           if (status) status.textContent = r.data.message || 'Thank you! Our team will be in touch soon.';
+          if (r.data.redirect) { window.location.href = r.data.redirect; return; }
           form.reset();
           form.querySelectorAll('select').forEach(function (s) { s.classList.remove('has-value'); });
           form.querySelectorAll('[aria-invalid]').forEach(function (f) { f.removeAttribute('aria-invalid'); });
@@ -260,4 +295,12 @@
       });
     });
   });
+
+  /* keep the "Book a Visit" CTA light: the sticky header already carries one, so show only the last in-page button */
+  (function () {
+    var btns = Array.prototype.filter.call(document.querySelectorAll("main a.btn"), function (a) {
+      return a.textContent.trim().toLowerCase() === "book a visit";
+    });
+    btns.slice(0, -1).forEach(function (a) { a.style.display = "none"; });
+  })();
 })();

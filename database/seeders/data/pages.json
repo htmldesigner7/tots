@@ -616,14 +616,14 @@
                                     "subtitle": "1.6–2.6 years · Early Exploration",
                                     "text": "Play corners to touch, build and pretend; stories, rhymes and conversations; music, dance and movement; blocks, puzzles, sorting and matching for early maths ideas; painting and drawing; sand, water and dough; and small climbing structures outdoors.",
                                     "points": [],
-                                    "timing": "Mon–Fri · 9:00 am – 12:00 noon"
+                                    "timing": "Mon–Fri · 9:00 a.m. – 11:30 a.m."
                                 },
                                 {
                                     "title": "Playgroup 2",
                                     "subtitle": "2.6–3 years · Bridge Programme",
                                     "text": "Children become more independent with belongings, handwashing, eating and tidying up; express themselves and learn new words; build friendships and take turns; fall in love with books; and discover early maths through counting, sorting and comparing real objects.",
                                     "points": [],
-                                    "timing": "Mon–Fri · 8:30–11:30 am"
+                                    "timing": "Mon–Fri · 9:00 a.m. – 12:00 p.m."
                                 }
                             ],
                             "button": {
@@ -657,7 +657,7 @@
                                     "subtitle": "3–4 years",
                                     "text": "Inquiry through everyday play: wondering why a plant needs water, planning how to build a tall tower, testing what floats and sinks, or revisiting a drawing to talk about what they created.",
                                     "points": [],
-                                    "timing": "Mon–Fri · 8:30 am – 12:00 noon"
+                                    "timing": "Mon–Fri · 9:00 a.m. – 12:30 p.m."
                                 }
                             ],
                             "button": {
@@ -669,7 +669,7 @@
                         },
                         {
                             "slug": "junior-kg",
-                            "tab_title": "Junior KG – K1",
+                            "tab_title": "LKG – K1",
                             "tab_subtitle": "4–5 years",
                             "tab_image": {
                                 "src": "assets/img/programs/tab-junior-kg.webp",
@@ -681,13 +681,13 @@
                                 "media_id": null,
                                 "alt": "Boy investigating a tree stump outdoors"
                             },
-                            "eyebrow": "Junior KG – K1 · 4–5 years",
+                            "eyebrow": "LKG – K1 · 4–5 years",
                             "heading_first_line": "From “I Wonder”",
                             "heading_script_line": "to “Let Me Find Out”.",
                             "body": "<p>A year of intentional learning that fosters independence, critical thinking, confident communication and ownership of learning, through play, inquiry, stories, hands-on experiences and real-world interactions.</p>",
                             "papers": [
                                 {
-                                    "title": "Junior KG – K1",
+                                    "title": "LKG – K1",
                                     "subtitle": "4–5 years",
                                     "text": "<strong>Key developmental goals:</strong>",
                                     "points": [
@@ -697,7 +697,7 @@
                                         "Maths through hands-on Singapore Math approaches",
                                         "Young inquirers who question, predict and investigate"
                                     ],
-                                    "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+                                    "timing": "Mon–Fri · 8:40 a.m. – 1:00 p.m."
                                 }
                             ],
                             "button": {
@@ -709,7 +709,7 @@
                         },
                         {
                             "slug": "senior-kg",
-                            "tab_title": "Senior KG – K2",
+                            "tab_title": "UKG – K2",
                             "tab_subtitle": "5–6 years",
                             "tab_image": {
                                 "src": "assets/img/programs/tab-senior-kg.webp",
@@ -721,13 +721,13 @@
                                 "media_id": null,
                                 "alt": "Girl reading a picture book"
                             },
-                            "eyebrow": "Senior KG – K2 · 5–6 years",
+                            "eyebrow": "UKG – K2 · 5–6 years",
                             "heading_first_line": "Confident, Capable Learners,",
                             "heading_script_line": "Ready for Grade 1.",
                             "body": "<p>Children take charge of their ideas, make choices, solve problems and work together. Early years learning comes together through connected, life-based experiences rather than isolated subjects.</p>",
                             "papers": [
                                 {
-                                    "title": "Senior KG – K2",
+                                    "title": "UKG – K2",
                                     "subtitle": "5–6 years",
                                     "text": "<strong>Key developmental areas:</strong>",
                                     "points": [
@@ -736,7 +736,7 @@
                                         "Understanding the world: nature, communities, materials and everyday phenomena",
                                         "Creative development: art, music, movement, drama and construction"
                                     ],
-                                    "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+                                    "timing": "Mon–Fri · 8:40 a.m. – 1:00 p.m."
                                 }
                             ],
                             "button": {
@@ -2390,22 +2390,22 @@
                         {
                             "text": "Playgroup 1",
                             "text_2": "Mon–Fri",
-                            "text_3": "9:00 am – 12:00 noon"
+                            "text_3": "9:00 a.m. – 11:30 a.m."
                         },
                         {
                             "text": "Playgroup 2",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30–11:30 am"
+                            "text_3": "9:00 a.m. – 12:00 p.m."
                         },
                         {
                             "text": "Nursery",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30 am – 12:00 noon"
+                            "text_3": "9:00 a.m. – 12:30 p.m."
                         },
                         {
                             "text": "K1 and K2",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30 am – 1:00 pm"
+                            "text_3": "8:40 a.m. – 1:00 p.m."
                         }
                     ],
                     "button": {
@@ -2564,22 +2564,22 @@
                         {
                             "text": "Playgroup 1",
                             "text_2": "Mon–Fri",
-                            "text_3": "9:00 am – 12:00 noon"
+                            "text_3": "9:00 a.m. – 11:30 a.m."
                         },
                         {
                             "text": "Playgroup 2",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30–11:30 am"
+                            "text_3": "9:00 a.m. – 12:00 p.m."
                         },
                         {
                             "text": "Nursery",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30 am – 12:00 noon"
+                            "text_3": "9:00 a.m. – 12:30 p.m."
                         },
                         {
                             "text": "K1 and K2",
                             "text_2": "Mon–Fri",
-                            "text_3": "8:30 am – 1:00 pm"
+                            "text_3": "8:40 a.m. – 1:00 p.m."
                         }
                     ]
                 }
@@ -2815,11 +2815,11 @@
                             "text_2": "3–4 years"
                         },
                         {
-                            "text": "Junior KG (K1)",
+                            "text": "LKG (K1)",
                             "text_2": "4–5 years"
                         },
                         {
-                            "text": "Senior KG (K2)",
+                            "text": "UKG (K2)",
                             "text_2": "5–6 years"
                         }
                     ],

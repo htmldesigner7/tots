@@ -345,3 +345,16 @@ ol.g2m,ol.g3m,ol.steps,ul.g2m,ul.g3m{list-style:none;margin:0;padding:0}
   .tab{flex:0 0 150px;height:auto;min-height:92px;padding:26px 8px 12px}
   .tab__t{white-space:nowrap}
 }
+
+/* validation message sits close to its field (cancels the flex gap) */
+.form .f>.cms-err{margin-top:calc(-15 * var(--u) + 4px);font-size:14px}
+
+/* consent checkbox error sits directly under its text, button stays on the right */
+.form .consent{display:grid;grid-template-columns:1fr auto;align-items:center;column-gap:calc(20 * var(--u))}
+.form .consent>label{grid-column:1;grid-row:1}
+.form .consent>.cms-err{grid-column:1;grid-row:2;margin-top:4px;padding-left:calc(8 * var(--u))}
+.form .consent>.btn{grid-column:2;grid-row:1 / span 2;align-self:center}
+@media (max-width:900px){
+  .form .consent{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+  .form .consent>.btn{margin-top:8px}
+}
