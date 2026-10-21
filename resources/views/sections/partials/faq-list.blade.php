@@ -1,0 +1,3 @@
+{{-- FAQ accordion list used by the "Before you visit" sections. Markup matches the approved design. --}}
+@php($p = 'q-' . $s->anchor)
+<div class="faq" data-single="">@foreach($s->items('faq_items') as $i => $it)@php($open = $loop->first && $s->bool('faq_first_open'))<div class="faq__item{{ $open ? ' is-open' : '' }}"><h3 class="faq__h"><button aria-controls="{{ $p }}-a{{ $i }}" aria-expanded="{{ $open ? 'true' : 'false' }}" class="faq__q" id="{{ $p }}-q{{ $i }}" type="button"><span>{!! $it->html('question') !!}</span><span aria-hidden="true" class="faq__icon"></span></button></h3><div aria-labelledby="{{ $p }}-q{{ $i }}" class="faq__a" id="{{ $p }}-a{{ $i }}" role="region"><div>{!! $it->rich('answer') !!}</div></div></div>@endforeach</div>

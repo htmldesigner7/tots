@@ -1,0 +1,126 @@
+{
+ "key": "inner-play-based-learning",
+ "label": "Play-based learning",
+ "origin": "learning",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "title",
+   "type": "inline",
+   "label": "Title 1"
+  },
+  {
+   "key": "item",
+   "type": "inline",
+   "label": "Item 1"
+  },
+  {
+   "key": "item_2",
+   "type": "inline",
+   "label": "Item 2"
+  },
+  {
+   "key": "item_3",
+   "type": "inline",
+   "label": "Item 3"
+  },
+  {
+   "key": "item_4",
+   "type": "inline",
+   "label": "Item 4"
+  },
+  {
+   "key": "item_5",
+   "type": "inline",
+   "label": "Item 5"
+  },
+  {
+   "key": "item_6",
+   "type": "inline",
+   "label": "Item 6"
+  },
+  {
+   "key": "item_7",
+   "type": "inline",
+   "label": "Item 7"
+  },
+  {
+   "key": "item_8",
+   "type": "inline",
+   "label": "Item 8"
+  },
+  {
+   "key": "item_9",
+   "type": "inline",
+   "label": "Item 9"
+  },
+  {
+   "key": "item_10",
+   "type": "inline",
+   "label": "Item 10"
+  },
+  {
+   "key": "item_11",
+   "type": "inline",
+   "label": "Item 11"
+  },
+  {
+   "key": "item_12",
+   "type": "inline",
+   "label": "Item 12"
+  },
+  {
+   "key": "item_13",
+   "type": "inline",
+   "label": "Item 13"
+  },
+  {
+   "key": "title_2",
+   "type": "inline",
+   "label": "Title 2"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  }
+ ],
+ "anchor": "play-based",
+ "dynamic": false,
+ "used_on": [
+  "learning"
+ ]
+}

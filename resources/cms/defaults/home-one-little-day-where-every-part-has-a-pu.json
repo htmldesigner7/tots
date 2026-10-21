@@ -1,0 +1,30 @@
+{
+ "heading_first_line": "One Little Day.",
+ "heading_script_line": "Where Every Part Has a Purpose.",
+ "image": {
+  "src": "assets/img/day-art.webp",
+  "media_id": null,
+  "alt": "Photo collage of a preschool day: story time with a teacher, children building with blocks and a girl painting at an easel",
+  "w": 1355,
+  "h": 737
+ },
+ "text": "First, we connect",
+ "text_2": "Good mornings begin together, with friends, conversation and circle time.",
+ "text_3": "Then, we get curious",
+ "text_4": "Planned experiences and spontaneous discoveries flow into each other.",
+ "text_5": "Provocation tables",
+ "text_6": "One idea, many ways in.",
+ "text_7": "And make room for joy",
+ "text_8": "Not rigid periods and subjects, but a day full of meaningful play.",
+ "checklist_title": "On today’s little list...",
+ "list_items": [
+  "Outdoor free play",
+  "Circle time",
+  "Provocation tables",
+  "Language and literacy",
+  "Mathematical thinking",
+  "Physical development",
+  "Creative expression",
+  "Personal, social & emotional development"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "heading_first_line": "Life Skills",
+ "heading_script_line": "“I Can Do It Myself.”",
+ "body_text": "<p>Independence grows through everyday moments: making choices, managing belongings, caring for the space and helping others.</p>",
+ "items": [
+  {
+   "title": "Self-Help",
+   "text": "Eating independently, washing hands and putting things away."
+  },
+  {
+   "title": "Caring for Our Space",
+   "text": "Reaching materials on their own and returning them to their place."
+  },
+  {
+   "title": "Dining Hall Skills",
+   "text": "Serving themselves, using cutlery, pouring water, waiting and practising table manners."
+  },
+  {
+   "title": "Feelings & Friendships",
+   "text": "Connection first, correction later. Understanding emotions, expressing needs and solving small conflicts."
+  }
+ ]
+}

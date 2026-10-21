@@ -1,0 +1,28 @@
+{
+ "heading_first_line": "Our Shared Vision",
+ "heading_script_line": "A Meaningful Purpose",
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/about/ic-mission.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 86,
+    "h": 86
+   },
+   "title": "Our Mission",
+   "text": "A play-based, experiential journey partnering with families to build confidence, kindness and a lifelong love of learning in a safe, inclusive space."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/ic-vision.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 86,
+    "h": 86
+   },
+   "title": "Our Vision",
+   "text": "To be a leading early years learning community where curiosity inspires discovery, play fuels learning, and every child grows into a confident, creative, responsible and caring global citizen."
+  }
+ ]
+}

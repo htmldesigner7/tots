@@ -1,0 +1,32 @@
+{
+ "key": "inner-strip",
+ "label": "strip",
+ "origin": "learning-approach",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning-approach"
+ ]
+}

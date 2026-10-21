@@ -1,0 +1,76 @@
+{
+ "image": {
+  "src": "assets/img/life-at-tots/act10.webp",
+  "media_id": null,
+  "alt": "Teacher sharing a picture book with a group of children",
+  "w": 268,
+  "h": 232
+ },
+ "eyebrow_text": "Language & Literacy",
+ "heading_first_line": "Falling in Love",
+ "heading_script_line": "With Words.",
+ "body_text": "<p>A language-rich environment helps children fall in love with words, stories and self-expression. We use the Letterland phonics programme alongside stories, conversations, rhymes, books and play.</p>",
+ "title": "Four Essential Skills",
+ "subtitle": "Listening · Speaking · Reading · Writing",
+ "list_items": [
+  "<strong>Listening:</strong> listening, understanding, responding and enjoying stories",
+  "<strong>Speaking:</strong> finding their voice, building vocabulary and expressing ideas",
+  "<strong>Reading:</strong> discovering sounds, letters, words and the joy of books",
+  "<strong>Writing:</strong> from marks and drawings to letters, words and sentences"
+ ],
+ "button": {
+  "label": "Enquire Now",
+  "url": "/admissions#enquiry",
+  "new_tab": false
+ },
+ "image_2": {
+  "src": "assets/img/life-at-tots/act11.webp",
+  "media_id": null,
+  "alt": "Boy experimenting with water and sorting colourful blocks",
+  "w": 273,
+  "h": 232
+ },
+ "eyebrow_text_2": "Mathematical Thinking",
+ "heading_first_line_2": "Maths Is",
+ "heading_script_line_2": "Everywhere.",
+ "body_text_2": "<p>Children see mathematics in blocks, patterns, water play, shapes and everyday problem-solving. Inspired by Singapore Math, they move from real objects to pictures, and then to numbers and symbols (Concrete–Pictorial–Abstract), building deep understanding instead of rote memorisation.</p>",
+ "title_2": "Key Focus Areas",
+ "subtitle_2": "Joyful problem-solving",
+ "list_items_2": [
+  "Number sense: counting, quantity and number relationships",
+  "Measurement: length, weight, capacity and time",
+  "Shape & space, patterns and relationships",
+  "Problem solving, reasoning and explaining ideas",
+  "Data: sorting, classifying and representing information"
+ ],
+ "button_2": {
+  "label": "Enquire Now",
+  "url": "/admissions#enquiry",
+  "new_tab": false
+ },
+ "image_3": {
+  "src": "assets/img/learning-approach/wonder.webp",
+  "media_id": null,
+  "alt": "Girl observing a plant closely through a magnifying glass",
+  "w": 678,
+  "h": 516
+ },
+ "eyebrow_text_3": "Understanding the World",
+ "heading_first_line_3": "Thinking Like A",
+ "heading_script_line_3": "Young Scientist.",
+ "body_text_3": "<p>Children learn by experiencing the world directly: wondering about people, noticing changes in nature and asking how things work. Thematic learning brings real life into the classroom through stories, nature walks, research and simple experiments.</p>",
+ "title_3": "Key Learning Areas",
+ "subtitle_3": "Wonder, notice, discover",
+ "list_items_3": [
+  "Nature & science: plants, animals, seasons and weather",
+  "People & our world: families, communities and cultures",
+  "Asking questions, predicting, trying things out",
+  "Caring for our world and using resources thoughtfully",
+  "Everyday life: how things work and why events happen"
+ ],
+ "button_3": {
+  "label": "Enquire Now",
+  "url": "/admissions#enquiry",
+  "new_tab": false
+ }
+}

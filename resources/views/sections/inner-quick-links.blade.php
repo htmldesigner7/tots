@@ -1,0 +1,2 @@
+{{-- Generated from parents.html — design-matched section. --}}
+<nav class="qlinks fl--lilac" aria-label="Quick links"><ul class="w">@foreach($s->items('items') as $it0)<li data-anim="fade-up"><a href="{{ $it0->url('link_url') }}"><img {!! $it0->img('icon') !!} aria-hidden="true" decoding="async" loading="lazy"><strong>{!! $it0->html('title') !!}</strong><span>{!! $it0->html('text') !!}</span></a></li>@endforeach</ul></nav>

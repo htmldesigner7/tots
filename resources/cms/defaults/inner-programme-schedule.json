@@ -1,0 +1,54 @@
+{
+ "heading_first_line": "Plan Their",
+ "heading_script_line": "Little Day",
+ "body_text": "<p>Find programme timings at a glance, and please confirm your child’s assigned session with our team.</p>",
+ "text": "Programme Schedule",
+ "items": [
+  {
+   "text": "Programme"
+  },
+  {
+   "text": "Days"
+  },
+  {
+   "text": "Timings"
+  }
+ ],
+ "items_2": [
+  {
+   "text": "Mother-Infant, 8–12 months",
+   "text_2": "Mon, Tue, Fri",
+   "text_3": "9–11 am or 4–6 pm"
+  },
+  {
+   "text": "Mother-Infant, 13–18 months",
+   "text_2": "Tue, Thu, Sat",
+   "text_3": "9–11 am or 4–6 pm"
+  },
+  {
+   "text": "Playgroup 1",
+   "text_2": "Mon–Fri",
+   "text_3": "9:00 am – 12:00 noon"
+  },
+  {
+   "text": "Playgroup 2",
+   "text_2": "Mon–Fri",
+   "text_3": "8:30–11:30 am"
+  },
+  {
+   "text": "Nursery",
+   "text_2": "Mon–Fri",
+   "text_3": "8:30 am – 12:00 noon"
+  },
+  {
+   "text": "K1 and K2",
+   "text_2": "Mon–Fri",
+   "text_3": "8:30 am – 1:00 pm"
+  }
+ ],
+ "button": {
+  "label": "Call Us",
+  "url": "tel:+919316049220",
+  "new_tab": false
+ }
+}

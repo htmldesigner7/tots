@@ -1,0 +1,20 @@
+{
+ "heading_first_line": "Events",
+ "heading_script_line": "Moments for the Whole Community.",
+ "body_text": "<p>Parents are an important part of our community. Families join community fairs, social causes and special events through the year.</p>",
+ "items": [
+  {
+   "title": "Community Fairs",
+   "text": "A chance for families and children to meet, share and enjoy."
+  },
+  {
+   "title": "Social Causes",
+   "text": "Children learn that they can care for others and the world."
+  },
+  {
+   "title": "Special Events",
+   "text": "Moments to celebrate learning with families."
+  }
+ ],
+ "text": "Upcoming events: [event name, date and time]"
+}

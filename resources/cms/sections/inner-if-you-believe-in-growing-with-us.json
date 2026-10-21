@@ -1,0 +1,28 @@
+{
+ "key": "inner-if-you-believe-in-growing-with-us",
+ "label": "If You Believe In Growing With Us",
+ "origin": "careers",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  }
+ ],
+ "anchor": "apply",
+ "dynamic": true,
+ "used_on": [
+  "careers"
+ ]
+}

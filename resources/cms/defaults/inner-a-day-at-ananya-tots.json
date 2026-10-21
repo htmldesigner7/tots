@@ -1,0 +1,39 @@
+{
+ "heading_first_line": "A Day At",
+ "heading_script_line": "Ananya Tots",
+ "body_text": "<p>Every part of the day offers a chance to learn, sometimes through planned experiences, sometimes through spontaneous discoveries, and often through play.</p>",
+ "items": [
+  {
+   "text": "01",
+   "title": "Outdoor Free Play"
+  },
+  {
+   "text": "02",
+   "title": "Circle Time"
+  },
+  {
+   "text": "03",
+   "title": "Provocation Tables"
+  },
+  {
+   "text": "04",
+   "title": "Language & Literacy"
+  },
+  {
+   "text": "05",
+   "title": "Mathematical Thinking"
+  },
+  {
+   "text": "06",
+   "title": "Physical Development"
+  },
+  {
+   "text": "07",
+   "title": "Creative Expression"
+  },
+  {
+   "text": "08",
+   "title": "Personal, Social & Emotional Development"
+  }
+ ]
+}

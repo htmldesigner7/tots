@@ -1,0 +1,18 @@
+{
+ "heading_first_line": "Academic Calendar",
+ "heading_script_line": "Plan the Year Ahead.",
+ "body_text": "<p>Our calendar lists term dates, planned breaks and school events.</p>",
+ "list": [
+  "Diwali Break",
+  "Christmas Break",
+  "Summer Vacation",
+  "National Holidays",
+  "Festival Holidays"
+ ],
+ "text": "[Dates to be confirmed]",
+ "button": {
+  "label": "Download Calendar",
+  "url": "#download-calendar",
+  "new_tab": false
+ }
+}

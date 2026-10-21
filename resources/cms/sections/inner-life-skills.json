@@ -1,0 +1,46 @@
+{
+ "key": "inner-life-skills",
+ "label": "Life skills",
+ "origin": "learning",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": "life-skills",
+ "dynamic": false,
+ "used_on": [
+  "learning"
+ ]
+}

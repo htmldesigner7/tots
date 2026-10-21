@@ -1,0 +1,82 @@
+{
+ "key": "inner-meal-plan",
+ "label": "Meal plan",
+ "origin": "parents-corner",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items 1",
+   "fields": [
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "title",
+   "type": "inline",
+   "label": "Title"
+  },
+  {
+   "key": "items_2",
+   "type": "repeater",
+   "label": "Items 2",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Text"
+  },
+  {
+   "key": "items_3",
+   "type": "repeater",
+   "label": "Items 3",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text 1"
+    },
+    {
+     "key": "text_2",
+     "type": "inline",
+     "label": "Text 2"
+    }
+   ],
+   "item_label": "Text"
+  }
+ ],
+ "anchor": "meals",
+ "dynamic": false,
+ "used_on": [
+  "parents-corner"
+ ]
+}

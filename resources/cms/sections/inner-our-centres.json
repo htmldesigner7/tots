@@ -1,0 +1,67 @@
+{
+ "key": "inner-our-centres",
+ "label": "Our centres",
+ "origin": "contact",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "image",
+     "type": "image",
+     "label": "Image",
+     "decorative": false
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text 1"
+    },
+    {
+     "key": "text_2",
+     "type": "inline",
+     "label": "Text 2"
+    },
+    {
+     "key": "text_3",
+     "type": "inline",
+     "label": "Text 3"
+    },
+    {
+     "key": "button",
+     "type": "link",
+     "label": "Button"
+    },
+    {
+     "key": "link",
+     "type": "link",
+     "label": "Link"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": "centres",
+ "dynamic": false,
+ "used_on": [
+  "contact"
+ ]
+}

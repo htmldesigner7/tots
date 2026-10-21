@@ -1,0 +1,43 @@
+{
+ "key": "inner-academic-calendar",
+ "label": "Academic calendar",
+ "origin": "parents-corner",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "list",
+   "type": "list",
+   "label": "List"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": "calendar",
+ "dynamic": false,
+ "used_on": [
+  "parents-corner"
+ ]
+}

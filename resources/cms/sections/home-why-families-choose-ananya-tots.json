@@ -1,0 +1,52 @@
+{
+ "key": "home-why-families-choose-ananya-tots",
+ "label": "Why Families Choose Ananya Tots.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "image",
+     "type": "image",
+     "label": "Image",
+     "decorative": false
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text 1"
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text_2",
+     "type": "inline",
+     "label": "Text 2"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

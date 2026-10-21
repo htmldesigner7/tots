@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/contact/call.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 176,
+    "h": 136
+   },
+   "heading": "Call Our Team",
+   "text": "<a href=\"tel:+919316049220\">+91 93160 49220</a><br/>Mon–Sat, 9:00 am – 6:00 pm"
+  },
+  {
+   "icon": {
+    "src": "assets/img/contact/visit.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 192,
+    "h": 144
+   },
+   "heading": "Visit Our Centres",
+   "text": "<strong>Zundal</strong><br/>Opposite Ananya International School,<br/>Monarc Nexus Road, Zundal,<br/>Ahmedabad - 382421, Gujarat.<br/><br/><strong>Lilapur</strong><br/>Opposite Serene 53,<br/>Behind Sardar Dham, Lilapur,<br/>Ahmedabad-380060, Gujarat."
+  }
+ ]
+}

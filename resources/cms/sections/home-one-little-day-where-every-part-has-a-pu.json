@@ -1,0 +1,79 @@
+{
+ "key": "home-one-little-day-where-every-part-has-a-pu",
+ "label": "One Little Day. Where Every Part Has a Purpose.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "text_3",
+   "type": "inline",
+   "label": "Text 3"
+  },
+  {
+   "key": "text_4",
+   "type": "inline",
+   "label": "Text 4"
+  },
+  {
+   "key": "text_5",
+   "type": "inline",
+   "label": "Text 5"
+  },
+  {
+   "key": "text_6",
+   "type": "inline",
+   "label": "Text 6"
+  },
+  {
+   "key": "text_7",
+   "type": "inline",
+   "label": "Text 7"
+  },
+  {
+   "key": "text_8",
+   "type": "inline",
+   "label": "Text 8"
+  },
+  {
+   "key": "checklist_title",
+   "type": "inline",
+   "label": "Checklist title"
+  },
+  {
+   "key": "list_items",
+   "type": "list",
+   "label": "List items"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "items": [
+  {
+   "slug": "mother-infant",
+   "tab_title": "Mother-Infant",
+   "tab_subtitle": "8–18 months",
+   "tab_image": {
+    "src": "assets/img/programs/tab-mother-infant.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "image": {
+    "src": "assets/img/parents/hero.webp",
+    "media_id": null,
+    "alt": "Parent, educator and toddler playing with colourful blocks together"
+   },
+   "eyebrow": "Mother-Infant Programme",
+   "heading_first_line": "Where Learning Begins",
+   "heading_script_line": "With Connection.",
+   "body": "<p>A secure, responsive and joyful environment where babies and caregivers explore, connect and grow together: a gentle beginning to learning, bonding and discovery.</p>",
+   "papers": [
+    {
+     "title": "Group 1",
+     "subtitle": "8–12 months",
+     "text": "Responsive songs, stories, movement and shared play strengthen the parent–child bond and build security and trust. Crawling, reaching and grasping, sensory play with textures, sounds and water, early communication and a gentle first social experience.",
+     "points": [],
+     "timing": "Mon, Tue & Fri · 2 hours · 9:00–11:00 am or 4:00–6:00 pm"
+    },
+    {
+     "title": "Group 2",
+     "subtitle": "13–18 months",
+     "text": "Toddlers grow from little explorers into active, independent participants, learning by moving, touching, repeating and experimenting rather than sitting still. Parents stay close as partners and a secure base.",
+     "points": [],
+     "timing": "Tue, Thu & Sat · 2 hours · 9:00–11:00 am or 4:00–6:00 pm · 15 children per batch"
+    }
+   ],
+   "button": {
+    "label": "Enquire Now",
+    "url": "/admissions#enquiry",
+    "new_tab": false
+   },
+   "selected": false
+  },
+  {
+   "slug": "playgroup",
+   "tab_title": "Playgroup",
+   "tab_subtitle": "Two stages",
+   "tab_image": {
+    "src": "assets/img/programs/tab-playgroup.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "image": {
+    "src": "assets/img/programs/panel-art.webp",
+    "media_id": null,
+    "alt": "Two children building a colourful block tower, with a note reading Let’s… I can do it. Let’s do it together."
+   },
+   "eyebrow": "Playgroup · 1.6–3 years",
+   "heading_first_line": "More Exploring",
+   "heading_script_line": "Growing Independence.",
+   "body": "<p>A gentle bridge from home to school. Children enter without their mothers into a warm, safe and confident environment, and grow in independence and curiosity without being rushed into formal academics.</p>",
+   "papers": [
+    {
+     "title": "Playgroup 1",
+     "subtitle": "1.6–2.6 years · Early Exploration",
+     "text": "Play corners to touch, build and pretend; stories, rhymes and conversations; music, dance and movement; blocks, puzzles, sorting and matching for early maths ideas; painting and drawing; sand, water and dough; and small climbing structures outdoors.",
+     "points": [],
+     "timing": "Mon–Fri · 9:00 am – 12:00 noon"
+    },
+    {
+     "title": "Playgroup 2",
+     "subtitle": "2.6–3 years · Bridge Programme",
+     "text": "Children become more independent with belongings, handwashing, eating and tidying up; express themselves and learn new words; build friendships and take turns; fall in love with books; and discover early maths through counting, sorting and comparing real objects.",
+     "points": [],
+     "timing": "Mon–Fri · 8:30–11:30 am"
+    }
+   ],
+   "button": {
+    "label": "Enquire Now",
+    "url": "/admissions#enquiry",
+    "new_tab": false
+   },
+   "selected": true
+  },
+  {
+   "slug": "nursery",
+   "tab_title": "Nursery",
+   "tab_subtitle": "3–4 years",
+   "tab_image": {
+    "src": "assets/img/programs/tab-nursery.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "image": {
+    "src": "assets/img/learning-approach/wonder.webp",
+    "media_id": null,
+    "alt": "Girl studying a plant through a magnifying glass, with a note reading I wonder why?"
+   },
+   "eyebrow": "Nursery · 3–4 years",
+   "heading_first_line": "Beginning the Journey",
+   "heading_script_line": "of Inquiry.",
+   "body": "<p>Ready for learning, not just worksheets, and without losing childhood. Children are gently introduced to the Super3 inquiry cycle of Create, Explore and Reflect, and learn that their ideas matter.</p>",
+   "papers": [
+    {
+     "title": "Nursery",
+     "subtitle": "3–4 years",
+     "text": "Inquiry through everyday play: wondering why a plant needs water, planning how to build a tall tower, testing what floats and sinks, or revisiting a drawing to talk about what they created.",
+     "points": [],
+     "timing": "Mon–Fri · 8:30 am – 12:00 noon"
+    }
+   ],
+   "button": {
+    "label": "Enquire Now",
+    "url": "/admissions#enquiry",
+    "new_tab": false
+   },
+   "selected": false
+  },
+  {
+   "slug": "junior-kg",
+   "tab_title": "Junior KG – K1",
+   "tab_subtitle": "4–5 years",
+   "tab_image": {
+    "src": "assets/img/programs/tab-junior-kg.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "image": {
+    "src": "assets/img/life-at-tots/act9.webp",
+    "media_id": null,
+    "alt": "Boy investigating a tree stump outdoors"
+   },
+   "eyebrow": "Junior KG – K1 · 4–5 years",
+   "heading_first_line": "From “I Wonder”",
+   "heading_script_line": "to “Let Me Find Out”.",
+   "body": "<p>A year of intentional learning that fosters independence, critical thinking, confident communication and ownership of learning, through play, inquiry, stories, hands-on experiences and real-world interactions.</p>",
+   "papers": [
+    {
+     "title": "Junior KG – K1",
+     "subtitle": "4–5 years",
+     "text": "<strong>Key developmental goals:</strong>",
+     "points": [
+      "Independence with belongings, routines and responsibilities",
+      "Communication: speaking, listening, vocabulary and conversation",
+      "Literacy foundations through Letterland phonics and storytelling",
+      "Maths through hands-on Singapore Math approaches",
+      "Young inquirers who question, predict and investigate"
+     ],
+     "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+    }
+   ],
+   "button": {
+    "label": "Enquire Now",
+    "url": "/admissions#enquiry",
+    "new_tab": false
+   },
+   "selected": false
+  },
+  {
+   "slug": "senior-kg",
+   "tab_title": "Senior KG – K2",
+   "tab_subtitle": "5–6 years",
+   "tab_image": {
+    "src": "assets/img/programs/tab-senior-kg.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "image": {
+    "src": "assets/img/life-at-tots/act12.webp",
+    "media_id": null,
+    "alt": "Girl reading a picture book"
+   },
+   "eyebrow": "Senior KG – K2 · 5–6 years",
+   "heading_first_line": "Confident, Capable Learners,",
+   "heading_script_line": "Ready for Grade 1.",
+   "body": "<p>Children take charge of their ideas, make choices, solve problems and work together. Early years learning comes together through connected, life-based experiences rather than isolated subjects.</p>",
+   "papers": [
+    {
+     "title": "Senior KG – K2",
+     "subtitle": "5–6 years",
+     "text": "<strong>Key developmental areas:</strong>",
+     "points": [
+      "Language & literacy: CVC words, blends, digraphs, sight words, sentence and paragraph writing",
+      "Mathematical thinking: number sense, reasoning, estimation and problem-solving",
+      "Understanding the world: nature, communities, materials and everyday phenomena",
+      "Creative development: art, music, movement, drama and construction"
+     ],
+     "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+    }
+   ],
+   "button": {
+    "label": "Enquire Now",
+    "url": "/admissions#enquiry",
+    "new_tab": false
+   },
+   "selected": false
+  }
+ ]
+}

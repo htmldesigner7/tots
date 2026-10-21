@@ -1,0 +1,26 @@
+{
+ "heading_first_line": "They Call It Play.",
+ "heading_script_line": "We Call It Learning.",
+ "text": "Play-based learning does not mean an absence of academics. Play is the vehicle for learning, because young children experience the world as a whole, not in separate subjects. Here is how every subject comes alive through play.",
+ "image": {
+  "src": "assets/img/play-art.webp",
+  "media_id": null,
+  "alt": "Children playing outdoors and learning at tables in a bright, plant-filled classroom",
+  "w": 1360,
+  "h": 397
+ },
+ "list": [
+  "Mathematics",
+  "Language",
+  "Science",
+  "Social-Emotional",
+  "Physical",
+  "Creativity"
+ ],
+ "text_2": "Counting with blocks and cooking · Stories, songs and phonological games · Planting, shadows and insects · Friendships and solving conflicts · Climbing, balancing and building · Paint, clay, music and the “hundred languages” of children",
+ "button": {
+  "label": "Explore Our Approach",
+  "url": "/learning-approach",
+  "new_tab": false
+ }
+}

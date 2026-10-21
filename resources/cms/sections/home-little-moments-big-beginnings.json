@@ -1,0 +1,50 @@
+{
+ "key": "home-little-moments-big-beginnings",
+ "label": "Little Moments. Big Beginnings.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image 1",
+   "decorative": false
+  },
+  {
+   "key": "image_2",
+   "type": "image",
+   "label": "Image 2",
+   "decorative": false
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

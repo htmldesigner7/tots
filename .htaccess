@@ -1,0 +1,24 @@
+# Project root protection.
+# Only public/ is meant to be reachable from the web. Everything else (.env, app/, config/,
+# storage/, database/, vendor/, artisan, composer.*) must never be downloadable.
+# If your host lets you point the domain at the public/ folder, do that as well.
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # allow only /public/... (the Laravel front controller has its own .htaccess)
+    RewriteCond %{REQUEST_URI} !(^|/)public(/|$)
+    RewriteRule ^ - [F,L]
+</IfModule>
+
+# second layer: never serve dotfiles (.env, .git, ...) or sensitive file types
+<IfModule mod_authz_core.c>
+    <FilesMatch "^\.(?!well-known)|\.(env|log|sql|lock|bak|ini|yml|yaml|sh|bat)$">
+        Require all denied
+    </FilesMatch>
+</IfModule>
+<IfModule !mod_authz_core.c>
+    <FilesMatch "^\.(?!well-known)|\.(env|log|sql|lock|bak|ini|yml|yaml|sh|bat)$">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+</IfModule>

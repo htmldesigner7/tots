@@ -1,0 +1,9 @@
+{
+ "heading_first_line": "Come See",
+ "heading_script_line": "Our Spaces",
+ "button": {
+  "label": "Arrange a Visit",
+  "url": "/contact?type=visit#enquiry",
+  "new_tab": false
+ }
+}

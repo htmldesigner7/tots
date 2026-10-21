@@ -1,0 +1,52 @@
+{
+ "key": "inner-page-hero--2",
+ "label": "Page hero",
+ "origin": "learning",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning",
+  "learning-approach",
+  "campus-life",
+  "facilities",
+  "parents",
+  "parents-corner",
+  "admissions",
+  "careers",
+  "contact"
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "heading_first_line": "Our Infrastructure.",
+ "heading_script_line": "The Third Teacher.",
+ "body_text": "<p>Every space, material and piece of furniture is designed to encourage children to inquire, discover, construct, create and learn independently. Our classrooms are not places where children simply sit; they are inviting spaces built around young children.</p>",
+ "button": {
+  "label": "Our Campus",
+  "url": "/contact#centres",
+  "new_tab": false
+ },
+ "items": [
+  {
+   "image": {
+    "src": "assets/img/life-at-tots/space2.webp",
+    "media_id": null,
+    "alt": "Girl reading on a beanbag beside low, child-height bookshelves",
+    "w": 416,
+    "h": 383
+   },
+   "title": "1. Child-Friendly Furniture",
+   "text": "Age-appropriate, safe and easy to move and choose from"
+  },
+  {
+   "image": {
+    "src": "assets/img/card-4.webp",
+    "media_id": null,
+    "alt": "Boy stacking colourful building blocks",
+    "w": 312,
+    "h": 390
+   },
+   "title": "2. Open-Ended Materials",
+   "text": "Provocations that invite questions, building and imagination"
+  },
+  {
+   "image": {
+    "src": "assets/img/card-1.webp",
+    "media_id": null,
+    "alt": "Two children painting together at a shared art table",
+    "w": 312,
+    "h": 390
+   },
+   "title": "3. Group Seating",
+   "text": "Collaboration, conversation and sharing of ideas"
+  },
+  {
+   "image": {
+    "src": "assets/img/life-at-tots/space3.webp",
+    "media_id": null,
+    "alt": "Children making crafts beside a chalkboard reading Small hands make big things",
+    "w": 416,
+    "h": 383
+   },
+   "title": "4. Eye-Level Displays",
+   "text": "Children revisit their work and feel ownership and pride"
+  },
+  {
+   "image": {
+    "src": "assets/img/card-2.webp",
+    "media_id": null,
+    "alt": "Calm reading corner with wooden shelves, cushions and plants",
+    "w": 312,
+    "h": 390
+   },
+   "title": "5. Calm, Well-Lit Rooms",
+   "text": "Soft pastel tones and organised, accessible materials"
+  },
+  {
+   "image": {
+    "src": "assets/img/life-at-tots/space1.webp",
+    "media_id": null,
+    "alt": "Outdoor play area with swings and rainbow climbing equipment",
+    "w": 416,
+    "h": 383
+   },
+   "title": "6. Fine & Gross Motor Play",
+   "text": "Coordination, confidence and physical development"
+  }
+ ]
+}

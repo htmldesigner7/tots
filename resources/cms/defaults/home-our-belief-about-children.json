@@ -1,0 +1,18 @@
+{
+ "image": {
+  "src": "assets/img/about-art.webp",
+  "media_id": null,
+  "alt": "Teacher and two children exploring together, building a tower of wooden blocks beside a child's sun painting",
+  "w": 720,
+  "h": 598
+ },
+ "heading_first_line": "Our Belief",
+ "heading_script_line": "About Children.",
+ "text": "At Ananya Tots, we believe that for a small child there is no division between playing and learning. Childhood is a journey of joyful discovery, not a race, and children learn best through active play, inquiry and real-world exploration.",
+ "text_2": "Our vision is a learning community where curiosity inspires discovery, play fuels learning, and every child grows into a confident, creative, responsible and caring global citizen.",
+ "button": {
+  "label": "Our Story",
+  "url": "/about",
+  "new_tab": false
+ }
+}

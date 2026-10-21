@@ -1,0 +1,28 @@
+{
+ "key": "inner-join-our-community",
+ "label": "Join our community",
+ "origin": "careers",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "text_3",
+   "type": "inline",
+   "label": "Text 3"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "careers"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "key": "inner-quick-links",
+ "label": "Quick links",
+ "origin": "parents",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "link_url",
+     "type": "url",
+     "label": "Link URL"
+    },
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "parents"
+ ]
+}

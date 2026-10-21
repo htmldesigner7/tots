@@ -1,0 +1,64 @@
+{
+ "key": "inner-school-timings",
+ "label": "School timings",
+ "origin": "parents-corner",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items 1",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Text"
+  },
+  {
+   "key": "items_2",
+   "type": "repeater",
+   "label": "Items 2",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text 1"
+    },
+    {
+     "key": "text_2",
+     "type": "inline",
+     "label": "Text 2"
+    },
+    {
+     "key": "text_3",
+     "type": "inline",
+     "label": "Text 3"
+    }
+   ],
+   "item_label": "Text"
+  }
+ ],
+ "anchor": "timings",
+ "dynamic": false,
+ "used_on": [
+  "parents-corner"
+ ]
+}

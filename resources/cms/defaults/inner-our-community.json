@@ -1,0 +1,17 @@
+{
+ "heading_first_line": "A Community Around",
+ "heading_script_line": "Every Child.",
+ "body_text": "<p>Parents are a child’s first and most important teachers. At Ananya Tots, the child, parent and teacher form a connected triangle that nurtures the whole child.</p><p>When home and school share the same language of love, respect, care and encouragement, children feel secure to explore, make mistakes and become confident learners.</p>",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/about/community.webp",
+  "media_id": null,
+  "alt": "A mother, her daughter and a teacher talking together, with illustrations of the child, parent and teacher connected",
+  "w": 641,
+  "h": 463
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "home-play-is-meaningful-childhood-is-precious",
+ "label": "Play Is Meaningful. Childhood Is Precious.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": "parents",
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

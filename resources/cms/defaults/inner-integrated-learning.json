@@ -1,0 +1,17 @@
+{
+ "image": {
+  "src": "assets/img/life-at-tots/world.webp",
+  "media_id": null,
+  "alt": "Children painting at an easel, exploring nature and building with wooden blocks in a garden",
+  "w": 619,
+  "h": 554
+ },
+ "heading_first_line": "Integrated Learning",
+ "heading_script_line": "One Experience, Many Skills.",
+ "body_text": "<p>Learning areas are woven together through thematic and inquiry-based experiences, not taught as isolated subjects.</p><p>A single experience, such as exploring a garden, listening to a story, building with blocks or investigating water, brings together language, mathematics, science, physical development, creativity and social-emotional learning.</p>",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ }
+}

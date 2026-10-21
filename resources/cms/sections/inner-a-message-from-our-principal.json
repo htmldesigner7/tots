@@ -1,0 +1,43 @@
+{
+ "key": "inner-a-message-from-our-principal",
+ "label": "A message from our Principal",
+ "origin": "about",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "quote_mark",
+   "type": "inline",
+   "label": "Quote mark"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  },
+  {
+   "key": "affirmation",
+   "type": "inline",
+   "label": "Affirmation"
+  },
+  {
+   "key": "attribution",
+   "type": "inline",
+   "label": "Attribution"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "about"
+ ]
+}

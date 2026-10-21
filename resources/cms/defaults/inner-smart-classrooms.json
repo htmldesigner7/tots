@@ -1,0 +1,22 @@
+{
+ "heading_first_line": "Smart Classrooms",
+ "heading_script_line": "Calm, Bright and Child-Friendly.",
+ "body_text": "<p>A class of 25 is organised so children can move in small groups of 5–8 between learning centres, each offering a different way to explore the same idea.</p>",
+ "title": "Child-Friendly Furniture",
+ "text": "Children move freely, make choices and reach materials on their own.",
+ "title_2": "Provocations & Open-Ended Materials",
+ "text_2": "Resources that invite children to question, build, imagine and create.",
+ "image": {
+  "src": "assets/img/programs/reading-corner.webp",
+  "media_id": null,
+  "alt": "Classroom learning centre with low wooden shelves, books and cushions",
+  "w": 404,
+  "h": 433
+ },
+ "title_3": "Group Seating",
+ "text_3": "Tables that encourage conversation while keeping every child included.",
+ "title_4": "Eye-Level Displays",
+ "text_4": "Children revisit their work and feel proud of it.",
+ "title_5": "Light, Calm Colours",
+ "text_5": "Well-lit rooms with soft pastel tones feel warm and welcoming."
+}

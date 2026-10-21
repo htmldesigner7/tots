@@ -1,0 +1,82 @@
+{
+ "key": "inner-our-curriculum--2",
+ "label": "Our curriculum",
+ "origin": "learning-approach",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items 1",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "items_2",
+   "type": "repeater",
+   "label": "Items 2",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning-approach"
+ ]
+}

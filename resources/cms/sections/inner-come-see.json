@@ -1,0 +1,28 @@
+{
+ "key": "inner-come-see",
+ "label": "Come See",
+ "origin": "facilities",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "facilities"
+ ]
+}

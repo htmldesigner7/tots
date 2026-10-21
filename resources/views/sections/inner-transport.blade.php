@@ -1,0 +1,2 @@
+{{-- Generated from parents-corner.html — design-matched section. --}}
+<section class="fl" id="{{ $s->anchor }}" aria-label="Transport"><div class="w"><div class="top2"><div class="hx" data-anim="fade-up"><h2><span class="d">{!! $s->html('heading_first_line') !!}</span><span class="s">{!! $s->html('heading_script_line') !!}</span></h2><img class="stroke" src="{{ asset('assets/img/stroke.png') }}" width="588" height="54" alt="" aria-hidden="true" data-anim="draw"></div><div><div class="copy" data-anim="fade-up">{!! $s->rich('body_text') !!}</div></div></div></div></section>

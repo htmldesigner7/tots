@@ -1,0 +1,3230 @@
+[
+    {
+        "slug": "",
+        "file": "index",
+        "title": "Home",
+        "template": "home",
+        "meta_title": "Play-Based Preschool in Ahmedabad | Ananya Tots",
+        "meta_description": "Ananya Tots is a play-based, experiential and child-centred preschool in Ahmedabad for children from 8 months to 6 years. Mother-Infant to K2. Book a visit.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "home-little-moments-big-beginnings",
+                "anchor": null,
+                "data": {
+                    "text": "Ananya Tots · Play-Based Preschool, Mother-Infant to K2",
+                    "heading_first_line": "Little Moments.",
+                    "heading_script_line": "Big Beginnings.",
+                    "text_2": "A play-based, experiential and child-centred preschool where children learn through curiosity, movement, exploration and meaningful relationships.",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/note.webp",
+                        "media_id": null,
+                        "alt": "Sticky note reading: Play is Meaningful.",
+                        "w": 190,
+                        "h": 214
+                    },
+                    "image_2": {
+                        "src": "assets/img/hero-art.webp",
+                        "media_id": null,
+                        "alt": "Smiling preschool girl in a lavender uniform holding a sunny drawing book, beside a photo of a child building with colourful blocks",
+                        "w": 1092,
+                        "h": 615
+                    }
+                }
+            },
+            {
+                "type": "home-highlights",
+                "anchor": null,
+                "data": {
+                    "text": "Play-Based",
+                    "text_2": "Experiential",
+                    "text_3": "Child-Centred"
+                }
+            },
+            {
+                "type": "home-our-belief-about-children",
+                "anchor": "about",
+                "data": {
+                    "image": {
+                        "src": "assets/img/about-art.webp",
+                        "media_id": null,
+                        "alt": "Teacher and two children exploring together, building a tower of wooden blocks beside a child's sun painting",
+                        "w": 720,
+                        "h": 598
+                    },
+                    "heading_first_line": "Our Belief",
+                    "heading_script_line": "About Children.",
+                    "text": "At Ananya Tots, we believe that for a small child there is no division between playing and learning. Childhood is a journey of joyful discovery, not a race, and children learn best through active play, inquiry and real-world exploration.",
+                    "text_2": "Our vision is a learning community where curiosity inspires discovery, play fuels learning, and every child grows into a confident, creative, responsible and caring global citizen.",
+                    "button": {
+                        "label": "Our Story",
+                        "url": "/about",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "home-hand-drawn-illustration-wonder-starts-sm",
+                "anchor": null,
+                "data": {}
+            },
+            {
+                "type": "home-why-families-choose-ananya-tots",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Why Families Choose",
+                    "heading_script_line": "Ananya Tots.",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "assets/img/card-1.webp",
+                                "media_id": null,
+                                "alt": "Children playing and learning together at a colourful art table",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "text": "Every child is valued & heard",
+                            "title": "Unique Learners",
+                            "text_2": "We respect every child’s voice, interests and individual pace."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-2.webp",
+                                "media_id": null,
+                                "alt": "Cosy reading corner inviting children to explore books",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "text": "Every child is valued & heard",
+                            "title": "Joyful Exploration",
+                            "text_2": "Through playful provocations, children explore, question and create in a calm, nurturing environment."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-3.webp",
+                                "media_id": null,
+                                "alt": "Teacher listening warmly to a young girl",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "text": "The power of community",
+                            "title": "Strong Partnerships",
+                            "text_2": "True to “it takes a village,” parents, teachers and children partner closely in the learning journey."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-4.webp",
+                                "media_id": null,
+                                "alt": "Boy carefully stacking colourful building blocks",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "text": "The power of community",
+                            "title": "Holistic Growth",
+                            "text_2": "We listen to families and work together to build the care, confidence and respect children need to flourish."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "home-they-call-it-play-we-call-it-learning",
+                "anchor": "approach",
+                "data": {
+                    "heading_first_line": "They Call It Play.",
+                    "heading_script_line": "We Call It Learning.",
+                    "text": "Play-based learning does not mean an absence of academics. Play is the vehicle for learning, because young children experience the world as a whole, not in separate subjects. Here is how every subject comes alive through play.",
+                    "image": {
+                        "src": "assets/img/play-art.webp",
+                        "media_id": null,
+                        "alt": "Children playing outdoors and learning at tables in a bright, plant-filled classroom",
+                        "w": 1360,
+                        "h": 397
+                    },
+                    "list": [
+                        "Mathematics",
+                        "Language",
+                        "Science",
+                        "Social-Emotional",
+                        "Physical",
+                        "Creativity"
+                    ],
+                    "text_2": "Counting with blocks and cooking · Stories, songs and phonological games · Planting, shadows and insects · Friendships and solving conflicts · Climbing, balancing and building · Paint, clay, music and the “hundred languages” of children",
+                    "button": {
+                        "label": "Explore Our Approach",
+                        "url": "/learning-approach",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "home-our-learning-environment",
+                "anchor": "campus",
+                "data": {
+                    "heading_first_line": "Our Learning",
+                    "heading_script_line": "Environment.",
+                    "text": "Every classroom layout at Ananya Tots has a clear purpose. Classes of 25 learners work in small groups of 5 to 8, moving between learning centres that explore the same core concept through movement, touch, imagination and collaboration.",
+                    "button": {
+                        "label": "Our Campus",
+                        "url": "/life-at-tots#infrastructure",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/campus-3.webp",
+                        "media_id": null,
+                        "alt": "Children making art together at a craft table",
+                        "w": 416,
+                        "h": 383
+                    },
+                    "title": "1. Diverse Learning Spaces",
+                    "text_2": "Art, music, storytelling, sensory exploration and hands-on experiences",
+                    "image_2": {
+                        "src": "assets/img/campus-2.webp",
+                        "media_id": null,
+                        "alt": "Girl absorbed in a picture book in a reading nook",
+                        "w": 416,
+                        "h": 383
+                    },
+                    "title_2": "2. Essential Skills",
+                    "text_3": "Seeing, hearing, feeling, communicating and reflecting",
+                    "image_3": {
+                        "src": "assets/img/campus-1.webp",
+                        "media_id": null,
+                        "alt": "Children playing together on swings and rainbow climbing equipment",
+                        "w": 416,
+                        "h": 383
+                    },
+                    "title_3": "3. Social & Personal Growth",
+                    "text_4": "Collaborating with peers while growing independent and self-aware",
+                    "image_4": {
+                        "src": "assets/img/env-facilitation.webp",
+                        "media_id": null,
+                        "alt": "Educator kneeling to talk with a young girl and her mother",
+                        "w": 642,
+                        "h": 480
+                    },
+                    "title_4": "4. Thoughtful Facilitation",
+                    "text_5": "Educators observe each child’s interests and needs to guide progress",
+                    "image_5": {
+                        "src": "assets/img/env-centres.webp",
+                        "media_id": null,
+                        "alt": "Small group of children exploring pine cones with a magnifying glass alongside an educator",
+                        "w": 642,
+                        "h": 480
+                    },
+                    "title_5": "5. Learning Centres",
+                    "text_6": "One idea, many ways in: groups of 5 to 8"
+                }
+            },
+            {
+                "type": "home-how-our-inspirations-come-together",
+                "anchor": "life-at-tots",
+                "data": {
+                    "image": {
+                        "src": "assets/img/see-more.webp",
+                        "media_id": null,
+                        "alt": "Children exploring nature outdoors: gardening, painting at an easel and building with wooden blocks in a learning garden",
+                        "w": 1536,
+                        "h": 1024
+                    },
+                    "heading_first_line": "How Our Inspirations",
+                    "heading_script_line": "Come Together.",
+                    "text": "At Ananya Tots, we blend six world-renowned educational philosophies to create a holistic learning environment.",
+                    "list": [
+                        "Reggio Emilia",
+                        "Montessori",
+                        "Finnish ECEC",
+                        "Forest & Nature Pedagogy",
+                        "Anji Play",
+                        "IB PYP"
+                    ]
+                }
+            },
+            {
+                "type": "home-one-little-day-where-every-part-has-a-pu",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "One Little Day.",
+                    "heading_script_line": "Where Every Part Has a Purpose.",
+                    "image": {
+                        "src": "assets/img/day-art.webp",
+                        "media_id": null,
+                        "alt": "Photo collage of a preschool day: story time with a teacher, children building with blocks and a girl painting at an easel",
+                        "w": 1355,
+                        "h": 737
+                    },
+                    "text": "First, we connect",
+                    "text_2": "Good mornings begin together, with friends, conversation and circle time.",
+                    "text_3": "Then, we get curious",
+                    "text_4": "Planned experiences and spontaneous discoveries flow into each other.",
+                    "text_5": "Provocation tables",
+                    "text_6": "One idea, many ways in.",
+                    "text_7": "And make room for joy",
+                    "text_8": "Not rigid periods and subjects, but a day full of meaningful play.",
+                    "checklist_title": "On today’s little list...",
+                    "list_items": [
+                        "Outdoor free play",
+                        "Circle time",
+                        "Provocation tables",
+                        "Language and literacy",
+                        "Mathematical thinking",
+                        "Physical development",
+                        "Creative expression",
+                        "Personal, social & emotional development"
+                    ]
+                }
+            },
+            {
+                "type": "home-play-is-meaningful-childhood-is-precious",
+                "anchor": "parents",
+                "data": {
+                    "image": {
+                        "src": "assets/img/care-bg.webp",
+                        "media_id": null,
+                        "alt": "Paper-craft scene of a wooden spoon tree, a napkin house and a plate framing children sharing a meal — Growing independence, Sharing moments, Learning table manners",
+                        "w": 1560,
+                        "h": 878
+                    },
+                    "heading_first_line": "Play Is Meaningful.",
+                    "heading_script_line": "Childhood Is Precious.",
+                    "text": "And every child deserves to love their school. Through play, our learners understand the world and prepare for life. Come and see how learning, play and childhood come together at Ananya Tots.",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "about",
+        "file": "about",
+        "title": "About Us",
+        "template": "inner",
+        "meta_title": "About Ananya Tots | Our Vision, Mission & Philosophy",
+        "meta_description": "Learning through wonder, play and purpose. Discover the Reggio Emilia, Montessori, Finnish, nature, Anji Play and IB PYP inspirations behind Ananya Tots.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Childhood Filled",
+                    "heading_script_line": "With Wonder, Play & Purpose.",
+                    "body_text": "<p>Our motto is simple: learning through wonder, play and purpose. Ananya Tots is a play-based, experiential and child-centred preschool, partnering with families to build confidence, kindness and a lifelong love of learning.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/about/hero.webp",
+                        "media_id": null,
+                        "alt": "Smiling little girl looking up through a magnifying glass among leaves and flowers, with a note reading Curious, Confident, Kind, Creative",
+                        "w": 872,
+                        "h": 556
+                    }
+                }
+            },
+            {
+                "type": "inner-how-we-see-a-child",
+                "anchor": null,
+                "data": {
+                    "image": {
+                        "src": "assets/img/about/child-collage.webp",
+                        "media_id": null,
+                        "alt": "Collage of children exploring pine cones, finger painting a sun and showing painted hands, with a note reading Little explorers, big ideas",
+                        "w": 782,
+                        "h": 632
+                    },
+                    "heading_first_line": "It Begins With How",
+                    "heading_script_line": "We See a Child",
+                    "body_text": "<p>At Ananya Tots, childhood is a journey of joyful discovery, not a race. Children learn best through active play, inquiry and real-world exploration, and every child arrives with their own ideas, interests and questions.</p><p>Connection comes before teaching. Learning happens naturally when children feel safe, seen, heard and loved. Our educators act as facilitators and co-learners, and families are valued as essential partners in growth.</p><p>Social-emotional well-being is our foundation, complemented by sustainability, cultural diversity and global citizenship.</p>",
+                    "text": "“For a small child, there is no division between playing and learning.”"
+                }
+            },
+            {
+                "type": "inner-our-shared-vision",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Our Shared Vision",
+                    "heading_script_line": "A Meaningful Purpose",
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/about/ic-mission.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 86,
+                                "h": 86
+                            },
+                            "title": "Our Mission",
+                            "text": "A play-based, experiential journey partnering with families to build confidence, kindness and a lifelong love of learning in a safe, inclusive space."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/ic-vision.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 86,
+                                "h": 86
+                            },
+                            "title": "Our Vision",
+                            "text": "To be a leading early years learning community where curiosity inspires discovery, play fuels learning, and every child grows into a confident, creative, responsible and caring global citizen."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-inspirations",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "How Our Inspirations",
+                    "heading_script_line": "Come Together.",
+                    "body_text": "<p>We blend six world-renowned educational philosophies to create a holistic learning environment.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e56.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 100
+                            },
+                            "title": "Reggio Emilia",
+                            "text": "Sees children as capable explorers, learning through art, music and beautiful learning spaces."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e34.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 99
+                            },
+                            "title": "Maria Montessori",
+                            "text": "Fosters independence and self-care with hands-on materials, at each child’s own pace."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e38.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 106,
+                                "h": 100
+                            },
+                            "title": "Finnish ECEC",
+                            "text": "Puts play, wellbeing and flexible routines first, without academic pressure."
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/about/painting.webp",
+                        "media_id": null,
+                        "alt": "Two children painting together at a table full of colourful paint pots",
+                        "w": 458,
+                        "h": 498
+                    },
+                    "items_2": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic13.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 90,
+                                "h": 96
+                            },
+                            "title": "Forest & Nature Pedagogy",
+                            "text": "Connects children to nature through outdoor exploration, gardening and weather play."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e52.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 104,
+                                "h": 100
+                            },
+                            "title": "Anji Play",
+                            "text": "Encourages true child-led play and large-scale construction with minimal adult direction."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e48.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 108,
+                                "h": 99
+                            },
+                            "title": "IB PYP",
+                            "text": "Uses inquiry and investigation so children ask questions, reflect and take action."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-community",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Community Around",
+                    "heading_script_line": "Every Child.",
+                    "body_text": "<p>Parents are a child’s first and most important teachers. At Ananya Tots, the child, parent and teacher form a connected triangle that nurtures the whole child.</p><p>When home and school share the same language of love, respect, care and encouragement, children feel secure to explore, make mistakes and become confident learners.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/about/community.webp",
+                        "media_id": null,
+                        "alt": "A mother, her daughter and a teacher talking together, with illustrations of the child, parent and teacher connected",
+                        "w": 641,
+                        "h": 463
+                    },
+                    "list": [
+                        "Child",
+                        "Parent",
+                        "Teacher"
+                    ]
+                }
+            },
+            {
+                "type": "inner-a-message-from-our-principal",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Message From",
+                    "heading_script_line": "Our Principal",
+                    "quote_mark": "“",
+                    "text": "Connection comes before teaching. Learning happens naturally only when children feel safe, seen, heard and loved. With 30 years of experience in early years education, I have seen how trust, play and shared experiences build the relationships every child needs. We listen and observe before we guide, design every corner so children can choose and explore, and document learning to understand how each child thinks and where their curiosity will lead next.",
+                    "affirmation": "“I am heard. I am loved. I am trusted. I am capable. I am believed in.” Every child at Ananya Tots.",
+                    "attribution": "[Principal’s name], Principal, Ananya Tots"
+                }
+            },
+            {
+                "type": "inner-hand-drawn-illustration-wonder-starts-sm",
+                "anchor": null,
+                "data": {}
+            }
+        ]
+    },
+    {
+        "slug": "programs",
+        "file": "programs",
+        "title": "Programmes",
+        "template": "inner",
+        "meta_title": "Preschool Programmes: Mother-Infant to K2 | Ananya Tots",
+        "meta_description": "Mother-Infant (8–18 months), Playgroup, Nursery, K1 and K2 programmes with timings, ages and focus areas. Play-based learning in a safe, joyful space.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Little Beginnings",
+                    "heading_script_line": "Growing Possibilities.",
+                    "body_text": "<p>Nurturing foundational journeys from Mother-Infant through K2 in a safe, joyful environment. Our programmes grow with your child, one playful and caring step at a time, all the way to a smooth transition into main school.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/programs/hero.webp",
+                        "media_id": null,
+                        "alt": "Teacher and three children building with colourful wooden blocks and a rainbow stacker, with a note reading Play, Explore, Learn, Grow",
+                        "w": 821,
+                        "h": 657
+                    }
+                }
+            },
+            {
+                "type": "programme-tabs",
+                "anchor": "programmes",
+                "data": {
+                    "items": [
+                        {
+                            "slug": "mother-infant",
+                            "tab_title": "Mother-Infant",
+                            "tab_subtitle": "8–18 months",
+                            "tab_image": {
+                                "src": "assets/img/programs/tab-mother-infant.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "image": {
+                                "src": "assets/img/parents/hero.webp",
+                                "media_id": null,
+                                "alt": "Parent, educator and toddler playing with colourful blocks together"
+                            },
+                            "eyebrow": "Mother-Infant Programme",
+                            "heading_first_line": "Where Learning Begins",
+                            "heading_script_line": "With Connection.",
+                            "body": "<p>A secure, responsive and joyful environment where babies and caregivers explore, connect and grow together: a gentle beginning to learning, bonding and discovery.</p>",
+                            "papers": [
+                                {
+                                    "title": "Group 1",
+                                    "subtitle": "8–12 months",
+                                    "text": "Responsive songs, stories, movement and shared play strengthen the parent–child bond and build security and trust. Crawling, reaching and grasping, sensory play with textures, sounds and water, early communication and a gentle first social experience.",
+                                    "points": [],
+                                    "timing": "Mon, Tue & Fri · 2 hours · 9:00–11:00 am or 4:00–6:00 pm"
+                                },
+                                {
+                                    "title": "Group 2",
+                                    "subtitle": "13–18 months",
+                                    "text": "Toddlers grow from little explorers into active, independent participants, learning by moving, touching, repeating and experimenting rather than sitting still. Parents stay close as partners and a secure base.",
+                                    "points": [],
+                                    "timing": "Tue, Thu & Sat · 2 hours · 9:00–11:00 am or 4:00–6:00 pm · 15 children per batch"
+                                }
+                            ],
+                            "button": {
+                                "label": "Enquire Now",
+                                "url": "/admissions#enquiry",
+                                "new_tab": false
+                            },
+                            "selected": false
+                        },
+                        {
+                            "slug": "playgroup",
+                            "tab_title": "Playgroup",
+                            "tab_subtitle": "Two stages",
+                            "tab_image": {
+                                "src": "assets/img/programs/tab-playgroup.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "image": {
+                                "src": "assets/img/programs/panel-art.webp",
+                                "media_id": null,
+                                "alt": "Two children building a colourful block tower, with a note reading Let’s… I can do it. Let’s do it together."
+                            },
+                            "eyebrow": "Playgroup · 1.6–3 years",
+                            "heading_first_line": "More Exploring",
+                            "heading_script_line": "Growing Independence.",
+                            "body": "<p>A gentle bridge from home to school. Children enter without their mothers into a warm, safe and confident environment, and grow in independence and curiosity without being rushed into formal academics.</p>",
+                            "papers": [
+                                {
+                                    "title": "Playgroup 1",
+                                    "subtitle": "1.6–2.6 years · Early Exploration",
+                                    "text": "Play corners to touch, build and pretend; stories, rhymes and conversations; music, dance and movement; blocks, puzzles, sorting and matching for early maths ideas; painting and drawing; sand, water and dough; and small climbing structures outdoors.",
+                                    "points": [],
+                                    "timing": "Mon–Fri · 9:00 am – 12:00 noon"
+                                },
+                                {
+                                    "title": "Playgroup 2",
+                                    "subtitle": "2.6–3 years · Bridge Programme",
+                                    "text": "Children become more independent with belongings, handwashing, eating and tidying up; express themselves and learn new words; build friendships and take turns; fall in love with books; and discover early maths through counting, sorting and comparing real objects.",
+                                    "points": [],
+                                    "timing": "Mon–Fri · 8:30–11:30 am"
+                                }
+                            ],
+                            "button": {
+                                "label": "Enquire Now",
+                                "url": "/admissions#enquiry",
+                                "new_tab": false
+                            },
+                            "selected": true
+                        },
+                        {
+                            "slug": "nursery",
+                            "tab_title": "Nursery",
+                            "tab_subtitle": "3–4 years",
+                            "tab_image": {
+                                "src": "assets/img/programs/tab-nursery.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "image": {
+                                "src": "assets/img/learning-approach/wonder.webp",
+                                "media_id": null,
+                                "alt": "Girl studying a plant through a magnifying glass, with a note reading I wonder why?"
+                            },
+                            "eyebrow": "Nursery · 3–4 years",
+                            "heading_first_line": "Beginning the Journey",
+                            "heading_script_line": "of Inquiry.",
+                            "body": "<p>Ready for learning, not just worksheets, and without losing childhood. Children are gently introduced to the Super3 inquiry cycle of Create, Explore and Reflect, and learn that their ideas matter.</p>",
+                            "papers": [
+                                {
+                                    "title": "Nursery",
+                                    "subtitle": "3–4 years",
+                                    "text": "Inquiry through everyday play: wondering why a plant needs water, planning how to build a tall tower, testing what floats and sinks, or revisiting a drawing to talk about what they created.",
+                                    "points": [],
+                                    "timing": "Mon–Fri · 8:30 am – 12:00 noon"
+                                }
+                            ],
+                            "button": {
+                                "label": "Enquire Now",
+                                "url": "/admissions#enquiry",
+                                "new_tab": false
+                            },
+                            "selected": false
+                        },
+                        {
+                            "slug": "junior-kg",
+                            "tab_title": "Junior KG – K1",
+                            "tab_subtitle": "4–5 years",
+                            "tab_image": {
+                                "src": "assets/img/programs/tab-junior-kg.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "image": {
+                                "src": "assets/img/life-at-tots/act9.webp",
+                                "media_id": null,
+                                "alt": "Boy investigating a tree stump outdoors"
+                            },
+                            "eyebrow": "Junior KG – K1 · 4–5 years",
+                            "heading_first_line": "From “I Wonder”",
+                            "heading_script_line": "to “Let Me Find Out”.",
+                            "body": "<p>A year of intentional learning that fosters independence, critical thinking, confident communication and ownership of learning, through play, inquiry, stories, hands-on experiences and real-world interactions.</p>",
+                            "papers": [
+                                {
+                                    "title": "Junior KG – K1",
+                                    "subtitle": "4–5 years",
+                                    "text": "<strong>Key developmental goals:</strong>",
+                                    "points": [
+                                        "Independence with belongings, routines and responsibilities",
+                                        "Communication: speaking, listening, vocabulary and conversation",
+                                        "Literacy foundations through Letterland phonics and storytelling",
+                                        "Maths through hands-on Singapore Math approaches",
+                                        "Young inquirers who question, predict and investigate"
+                                    ],
+                                    "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+                                }
+                            ],
+                            "button": {
+                                "label": "Enquire Now",
+                                "url": "/admissions#enquiry",
+                                "new_tab": false
+                            },
+                            "selected": false
+                        },
+                        {
+                            "slug": "senior-kg",
+                            "tab_title": "Senior KG – K2",
+                            "tab_subtitle": "5–6 years",
+                            "tab_image": {
+                                "src": "assets/img/programs/tab-senior-kg.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "image": {
+                                "src": "assets/img/life-at-tots/act12.webp",
+                                "media_id": null,
+                                "alt": "Girl reading a picture book"
+                            },
+                            "eyebrow": "Senior KG – K2 · 5–6 years",
+                            "heading_first_line": "Confident, Capable Learners,",
+                            "heading_script_line": "Ready for Grade 1.",
+                            "body": "<p>Children take charge of their ideas, make choices, solve problems and work together. Early years learning comes together through connected, life-based experiences rather than isolated subjects.</p>",
+                            "papers": [
+                                {
+                                    "title": "Senior KG – K2",
+                                    "subtitle": "5–6 years",
+                                    "text": "<strong>Key developmental areas:</strong>",
+                                    "points": [
+                                        "Language & literacy: CVC words, blends, digraphs, sight words, sentence and paragraph writing",
+                                        "Mathematical thinking: number sense, reasoning, estimation and problem-solving",
+                                        "Understanding the world: nature, communities, materials and everyday phenomena",
+                                        "Creative development: art, music, movement, drama and construction"
+                                    ],
+                                    "timing": "Mon–Fri · 8:30 am – 1:00 pm"
+                                }
+                            ],
+                            "button": {
+                                "label": "Enquire Now",
+                                "url": "/admissions#enquiry",
+                                "new_tab": false
+                            },
+                            "selected": false
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-one-meaningful-approach",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Different Stages",
+                    "heading_script_line": "One Meaningful Approach",
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e56.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 100
+                            },
+                            "title": "Play-Based Learning",
+                            "text": "Children learn naturally through purposeful play, exploration, imagination and discovery."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e34.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 99
+                            },
+                            "title": "Experiential Learning",
+                            "text": "Children learn by doing, experimenting and making meaning from real-world experiences."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e38.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 106,
+                                "h": 100
+                            },
+                            "title": "Inquiry-Based Learning",
+                            "text": "The Super3 cycle of Create, Explore and Reflect, adapted for young children."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e52.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 104,
+                                "h": 100
+                            },
+                            "title": "Integrated Learning",
+                            "text": "Language, maths, science, creativity and social-emotional growth woven together through themes."
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/programs/reading-corner.webp",
+                        "media_id": null,
+                        "alt": "Cosy reading corner with wooden bookshelves, cushions and plants",
+                        "w": 404,
+                        "h": 433
+                    },
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-before-you-visit-a-few-helpful-answers",
+                "anchor": "faq",
+                "data": {
+                    "heading_first_line": "Before You Visit",
+                    "heading_script_line": "A Few Helpful Answers.",
+                    "faq_items": [
+                        {
+                            "question": "How can I participate in school life?",
+                            "answer": "<p>Parents are an important part of our community. We invite families to parenting workshops, community fairs, celebrations, social causes and special events. Contact the team for current arrangements.</p>"
+                        },
+                        {
+                            "question": "Where can I find programme timings?",
+                            "answer": "<p>Timings for every programme are listed on our <a href=\"/programs\">Programmes</a> page and in the schedule on the <a href=\"/parents#schedule\">Parents</a> page. Please confirm your child’s assigned session with our team.</p>"
+                        },
+                        {
+                            "question": "How can I share a question with the team?",
+                            "answer": "<p>Fill in the <a href=\"/contact#enquiry\">enquiry form</a>, call +91 93160 49220 or email hello@ananyatots.com, and our team will get back to you.</p>"
+                        },
+                        {
+                            "question": "How will I receive important school information?",
+                            "answer": "<p>Important updates are shared directly with families by the Ananya Tots team. Contact the team for current arrangements.</p>"
+                        }
+                    ],
+                    "faq_first_open": true,
+                    "faq_schema": false
+                }
+            }
+        ]
+    },
+    {
+        "slug": "learning",
+        "file": "learning",
+        "title": "Learning",
+        "template": "inner",
+        "meta_title": "Learning at Ananya Tots | Curriculum & Play-Based Learning",
+        "meta_description": "Our inquiry-based curriculum: six areas of learning, play-based learning, Letterland phonics, art, music, outdoor learning and life skills at Ananya Tots.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Learning Through",
+                    "heading_script_line": "Wonder, Play & Purpose.",
+                    "body_text": "<p>At Ananya Tots, childhood is not a race to academic achievement. It is a journey of joyful discovery, where children learn by playing, asking, making and reflecting.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/programs/panel-art.webp",
+                        "media_id": null,
+                        "alt": "Two children building a colourful block tower together, with a note reading Let’s do it together",
+                        "w": 642,
+                        "h": 581
+                    },
+                    "text": "We learn by doing."
+                }
+            },
+            {
+                "type": "inner-on-this-page-links",
+                "anchor": null,
+                "data": {
+                    "list": [
+                        "<a href=\"#curriculum\">Curriculum</a>",
+                        "<a href=\"#play-based\">Play-Based Learning</a>",
+                        "<a href=\"#language\">Language Development</a>",
+                        "<a href=\"#art\">Art &amp; Creativity</a>",
+                        "<a href=\"#music\">Music &amp; Movement</a>",
+                        "<a href=\"#outdoor\">Outdoor Learning</a>",
+                        "<a href=\"#life-skills\">Life Skills</a>"
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-curriculum",
+                "anchor": "curriculum",
+                "data": {
+                    "heading_first_line": "Our Curriculum",
+                    "heading_script_line": "Six Areas, One Joyful Journey.",
+                    "body_text": "<p>Our curriculum is built on inquiry. Children explore the world through six areas of learning, woven together through themes and real experiences, never taught as isolated subjects.</p>",
+                    "title": "Create",
+                    "text": "I wonder. I imagine. I ask.",
+                    "item": "→",
+                    "title_2": "Explore",
+                    "text_2": "I play. I investigate. I discover.",
+                    "item_2": "→",
+                    "title_3": "Reflect",
+                    "text_3": "I think. I share. I make meaning.",
+                    "items": [
+                        {
+                            "title": "Language & Literacy",
+                            "text": "Listening, speaking, stories, Letterland phonics and early reading and writing."
+                        },
+                        {
+                            "title": "Mathematical Thinking",
+                            "text": "Number sense, patterns, shapes and measurement through hands-on, Singapore Math-inspired experiences."
+                        },
+                        {
+                            "title": "Understanding the World",
+                            "text": "Nature, people, communities and simple experiments."
+                        },
+                        {
+                            "title": "Creative Development",
+                            "text": "Art, music, dance, drama and construction."
+                        },
+                        {
+                            "title": "Physical Development",
+                            "text": "Gross and fine motor skills through movement and outdoor play."
+                        },
+                        {
+                            "title": "Personal, Social & Emotional",
+                            "text": "Confidence, friendships, self-regulation and responsibility."
+                        }
+                    ],
+                    "text_4": "Inspired by the Super 3 approach and thoughtfully adapted for young children.",
+                    "button": {
+                        "label": "Explore Programmes",
+                        "url": "/programs",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-play-based-learning",
+                "anchor": "play-based",
+                "data": {
+                    "heading_first_line": "Play-Based Learning",
+                    "heading_script_line": "Play Is Meaningful.",
+                    "body_text": "<p>Play-based does not mean no academics. We use play as one of the most powerful ways young children learn.</p>",
+                    "items": [
+                        {
+                            "title": "Mathematics",
+                            "text": "Blocks, cooking, water, patterns, sorting and measuring."
+                        },
+                        {
+                            "title": "Language",
+                            "text": "Storytelling, conversations, songs and dramatic play."
+                        },
+                        {
+                            "title": "Science",
+                            "text": "Planting, observing insects, mixing materials and exploring shadows."
+                        },
+                        {
+                            "title": "Social-Emotional",
+                            "text": "Collaborative play, friendships and solving problems together."
+                        },
+                        {
+                            "title": "Physical Skills",
+                            "text": "Climbing, balancing, running and building."
+                        },
+                        {
+                            "title": "Creativity",
+                            "text": "Drawing, painting, clay, music, movement and drama."
+                        }
+                    ],
+                    "title": "From Play to Action",
+                    "item": "Play",
+                    "item_2": "→",
+                    "item_3": "Explore",
+                    "item_4": "→",
+                    "item_5": "Question",
+                    "item_6": "→",
+                    "item_7": "Create",
+                    "item_8": "→",
+                    "item_9": "Reflect",
+                    "item_10": "→",
+                    "item_11": "Connect",
+                    "item_12": "→",
+                    "item_13": "Act",
+                    "title_2": "The Teacher’s Role",
+                    "text": "Our educators observe, listen, notice interests, plan provocations, ask thoughtful questions and document learning. In a play-based classroom the teacher is never absent. She becomes a more thoughtful guide."
+                }
+            },
+            {
+                "type": "inner-language-development",
+                "anchor": "language",
+                "data": {
+                    "heading_first_line": "Language Development",
+                    "heading_script_line": "Finding Their Voice.",
+                    "body_text": "<p>We want children to fall in love with words, stories and the joy of expressing themselves, discovering the magic of reading and writing along the way.</p>",
+                    "title": "Listening",
+                    "text": "Learning to listen, understand, respond and enjoy stories.",
+                    "title_2": "Speaking",
+                    "text_2": "Finding their voice, building vocabulary and sharing ideas.",
+                    "image": {
+                        "src": "assets/img/life-at-tots/act10.webp",
+                        "media_id": null,
+                        "alt": "Teacher reading a picture book to a group of children at story time",
+                        "w": 268,
+                        "h": 232
+                    },
+                    "title_3": "Reading",
+                    "text_3": "Discovering sounds, letters and words, and the joy of books.",
+                    "title_4": "Writing",
+                    "text_4": "Beginning with marks and drawings, then letters, words and sentences.",
+                    "body_text_2": "<p>Our Letterland phonics programme gives a strong, systematic foundation in sounds and letters, always connected to stories, songs, movement, games and play. Our goal is confident communicators who have something to say, and the confidence to say it.</p>"
+                }
+            },
+            {
+                "type": "inner-art-and-creativity",
+                "anchor": "art",
+                "data": {
+                    "heading_first_line": "Art & Creativity",
+                    "heading_script_line": "Many Ways to Say “This Is My Idea.”",
+                    "body_text": "<p>Every child has many ways of expressing what they think, feel and imagine. There is no single right way to create.</p>",
+                    "items": [
+                        {
+                            "title": "Art Atelier",
+                            "text": "A space to experiment with paint, colour, clay and open-ended materials."
+                        },
+                        {
+                            "title": "Drama & Theatre",
+                            "text": "Imaginative and dramatic play where children act out stories and ideas."
+                        },
+                        {
+                            "title": "Ideas Made Visible",
+                            "text": "A line may become a road, a block structure a house. Children’s work is displayed at eye level so they can revisit it with pride."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-music-and-movement",
+                "anchor": "music",
+                "data": {
+                    "heading_first_line": "Music & Movement",
+                    "heading_script_line": "Rhythm, Joy and Confidence.",
+                    "body_text": "<p>Children learn through movement. Songs, rhymes and dance build rhythm, coordination, body awareness and confidence.</p>",
+                    "image": {
+                        "src": "assets/img/life-at-tots/act13.webp",
+                        "media_id": null,
+                        "alt": "Girl dancing joyfully with her arms raised",
+                        "w": 270,
+                        "h": 232
+                    },
+                    "title": "Sing & Rhyme",
+                    "text": "Songs and rhymes help children listen, join in and find new words.",
+                    "title_2": "Dance & Express",
+                    "text_2": "Movement shows what children feel and imagine, even before they have the words.",
+                    "title_3": "Move & Build",
+                    "text_3": "Climbing, balancing and jumping build strong bodies and coordination."
+                }
+            },
+            {
+                "type": "inner-outdoor-learning",
+                "anchor": "outdoor",
+                "data": {
+                    "heading_first_line": "Outdoor Learning",
+                    "heading_script_line": "The Outdoors Is Part of the Classroom.",
+                    "body_text": "<p>Outdoor free play lets children decide what to play, with whom and how, building confidence, coordination and independence.</p>",
+                    "items": [
+                        {
+                            "title": "Nature Walks & Gardening",
+                            "text": "Children notice the world, care for it and ask questions."
+                        },
+                        {
+                            "title": "Water & Mud Play",
+                            "text": "Sensory exploration with natural materials and room for experiments."
+                        },
+                        {
+                            "title": "Curiosity in Action",
+                            "text": "“What makes a seed grow?” leads children to plant, watch, measure, draw and talk about what plants need."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-life-skills",
+                "anchor": "life-skills",
+                "data": {
+                    "heading_first_line": "Life Skills",
+                    "heading_script_line": "“I Can Do It Myself.”",
+                    "body_text": "<p>Independence grows through everyday moments: making choices, managing belongings, caring for the space and helping others.</p>",
+                    "items": [
+                        {
+                            "title": "Self-Help",
+                            "text": "Eating independently, washing hands and putting things away."
+                        },
+                        {
+                            "title": "Caring for Our Space",
+                            "text": "Reaching materials on their own and returning them to their place."
+                        },
+                        {
+                            "title": "Dining Hall Skills",
+                            "text": "Serving themselves, using cutlery, pouring water, waiting and practising table manners."
+                        },
+                        {
+                            "title": "Feelings & Friendships",
+                            "text": "Connection first, correction later. Understanding emotions, expressing needs and solving small conflicts."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-see-learning-in-action",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "See Learning in Action",
+                    "heading_script_line": "At Ananya Tots",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "learning-approach",
+        "file": "learning-approach",
+        "title": "Learning Approach",
+        "template": "inner",
+        "meta_title": "Play-Based & Inquiry Learning Approach | Ananya Tots",
+        "meta_description": "Our Super3 Create–Explore–Reflect inquiry cycle, Letterland phonics, Singapore Math and integrated curriculum make every subject come alive through play.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Play Is the Vehicle",
+                    "heading_script_line": "For Every Kind of Learning.",
+                    "body_text": "<p>Learning is not removed to make room for play. Play is how young children learn, because they experience the world as a whole rather than as separate subjects. Our play-based, experiential and inquiry-led approach makes that learning visible.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/learning-approach/hero.webp",
+                        "media_id": null,
+                        "alt": "Educator and two children examining pine cones and leaves with a magnifying glass",
+                        "w": 708,
+                        "h": 472
+                    },
+                    "text": "Create · Explore · Reflect"
+                }
+            },
+            {
+                "type": "inner-strip",
+                "anchor": null,
+                "data": {
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/icon-kids.png",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 213,
+                                "h": 114
+                            },
+                            "text": "Play-Based Learning"
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/icon-book.png",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 141,
+                                "h": 111
+                            },
+                            "text": "Experiential Learning"
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/icon-hands.png",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 114,
+                                "h": 111
+                            },
+                            "text": "Inquiry-Based Learning"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-inquiry-cycle",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Our Inquiry Cycle",
+                    "heading_script_line": "Create → Explore → Reflect.",
+                    "body_text": "<p>Inspired by the Super3 approach and thoughtfully adapted for young children, our inquiry cycle helps children learn naturally through curiosity and hands-on play.</p>",
+                    "title": "Create (Action & Play)",
+                    "text": "Children test their theories, build with open-ended materials and bring their imaginations to life.",
+                    "title_2": "Explore (Think & Wonder)",
+                    "text_2": "Children meet new ideas, ask questions and investigate their surroundings through nature, stories and play.",
+                    "title_3": "Reflect (Share & Grow)",
+                    "text_3": "Children look back at what they made, talk about their discoveries and celebrate their learning with teachers and peers.",
+                    "text_4": "<b>Create</b><small>Action &amp; Play</small>",
+                    "text_5": "<b>Explore</b><small>Think &amp; Wonder</small>",
+                    "text_6": "<b>Reflect</b><small>Share &amp; Grow</small>",
+                    "text_7": "<b>Super3</b><small>Inquiry Cycle</small>"
+                }
+            },
+            {
+                "type": "inner-our-curriculum--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Our Curriculum",
+                    "heading_script_line": "Six Connected Areas.",
+                    "body_text": "<p>Through inquiry, our learners go deep into understanding the world around them, language and literacy, mathematics, creative learning and physical development, all woven together with personal, social and emotional growth.</p>",
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e34.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 99
+                            },
+                            "title": "Language & Literacy",
+                            "text": "A language-rich world of stories, conversations, rhymes and Letterland phonics."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e38.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 106,
+                                "h": 100
+                            },
+                            "title": "Mathematical Thinking",
+                            "text": "Maths everywhere, through the Singapore Math Concrete–Pictorial–Abstract progression."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e48.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 108,
+                                "h": 99
+                            },
+                            "title": "Understanding the World",
+                            "text": "Themes children can touch, see, talk about, explore and enjoy."
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/learning-approach/m3.webp",
+                        "media_id": null,
+                        "alt": "Boy carefully building a tower of colourful blocks",
+                        "w": 392,
+                        "h": 416
+                    },
+                    "items_2": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic13.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 90,
+                                "h": 96
+                            },
+                            "title": "Physical Development",
+                            "text": "Strength, balance, coordination and hand control through active play and self-help routines."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e42.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 104,
+                                "h": 100
+                            },
+                            "title": "Creative Expression",
+                            "text": "Art, music, dance and drama, with no single “right” way to create."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic11.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 102,
+                                "h": 96
+                            },
+                            "title": "Personal, Social & Emotional",
+                            "text": "Feeling happy, safe, loved and connected, the foundation for all learning."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-areas-of-learning-in-depth",
+                "anchor": null,
+                "data": {
+                    "image": {
+                        "src": "assets/img/life-at-tots/act10.webp",
+                        "media_id": null,
+                        "alt": "Teacher sharing a picture book with a group of children",
+                        "w": 268,
+                        "h": 232
+                    },
+                    "eyebrow_text": "Language & Literacy",
+                    "heading_first_line": "Falling in Love",
+                    "heading_script_line": "With Words.",
+                    "body_text": "<p>A language-rich environment helps children fall in love with words, stories and self-expression. We use the Letterland phonics programme alongside stories, conversations, rhymes, books and play.</p>",
+                    "title": "Four Essential Skills",
+                    "subtitle": "Listening · Speaking · Reading · Writing",
+                    "list_items": [
+                        "<strong>Listening:</strong> listening, understanding, responding and enjoying stories",
+                        "<strong>Speaking:</strong> finding their voice, building vocabulary and expressing ideas",
+                        "<strong>Reading:</strong> discovering sounds, letters, words and the joy of books",
+                        "<strong>Writing:</strong> from marks and drawings to letters, words and sentences"
+                    ],
+                    "button": {
+                        "label": "Enquire Now",
+                        "url": "/admissions#enquiry",
+                        "new_tab": false
+                    },
+                    "image_2": {
+                        "src": "assets/img/life-at-tots/act11.webp",
+                        "media_id": null,
+                        "alt": "Boy experimenting with water and sorting colourful blocks",
+                        "w": 273,
+                        "h": 232
+                    },
+                    "eyebrow_text_2": "Mathematical Thinking",
+                    "heading_first_line_2": "Maths Is",
+                    "heading_script_line_2": "Everywhere.",
+                    "body_text_2": "<p>Children see mathematics in blocks, patterns, water play, shapes and everyday problem-solving. Inspired by Singapore Math, they move from real objects to pictures, and then to numbers and symbols (Concrete–Pictorial–Abstract), building deep understanding instead of rote memorisation.</p>",
+                    "title_2": "Key Focus Areas",
+                    "subtitle_2": "Joyful problem-solving",
+                    "list_items_2": [
+                        "Number sense: counting, quantity and number relationships",
+                        "Measurement: length, weight, capacity and time",
+                        "Shape & space, patterns and relationships",
+                        "Problem solving, reasoning and explaining ideas",
+                        "Data: sorting, classifying and representing information"
+                    ],
+                    "button_2": {
+                        "label": "Enquire Now",
+                        "url": "/admissions#enquiry",
+                        "new_tab": false
+                    },
+                    "image_3": {
+                        "src": "assets/img/learning-approach/wonder.webp",
+                        "media_id": null,
+                        "alt": "Girl observing a plant closely through a magnifying glass",
+                        "w": 678,
+                        "h": 516
+                    },
+                    "eyebrow_text_3": "Understanding the World",
+                    "heading_first_line_3": "Thinking Like A",
+                    "heading_script_line_3": "Young Scientist.",
+                    "body_text_3": "<p>Children learn by experiencing the world directly: wondering about people, noticing changes in nature and asking how things work. Thematic learning brings real life into the classroom through stories, nature walks, research and simple experiments.</p>",
+                    "title_3": "Key Learning Areas",
+                    "subtitle_3": "Wonder, notice, discover",
+                    "list_items_3": [
+                        "Nature & science: plants, animals, seasons and weather",
+                        "People & our world: families, communities and cultures",
+                        "Asking questions, predicting, trying things out",
+                        "Caring for our world and using resources thoughtfully",
+                        "Everyday life: how things work and why events happen"
+                    ],
+                    "button_3": {
+                        "label": "Enquire Now",
+                        "url": "/admissions#enquiry",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-the-role-of-the-teacher",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "The Role of the Teacher",
+                    "heading_script_line": "Present, Thoughtful, Purposeful.",
+                    "body_text": "<p>A play-based school does not mean an absent teacher. Our educators are thoughtful professionals who follow a cycle of care in every experience.</p>",
+                    "item": "Observes",
+                    "item_2": "→",
+                    "item_3": "Listens",
+                    "item_4": "→",
+                    "item_5": "Notices interests",
+                    "item_6": "→",
+                    "item_7": "Plans provocations",
+                    "item_8": "→",
+                    "item_9": "Asks thoughtful questions",
+                    "item_10": "→",
+                    "item_11": "Scaffolds learning",
+                    "item_12": "→",
+                    "item_13": "Documents",
+                    "item_14": "→",
+                    "item_15": "Reflects",
+                    "item_16": "→",
+                    "item_17": "Plans the next experience"
+                }
+            },
+            {
+                "type": "inner-integrated-learning",
+                "anchor": null,
+                "data": {
+                    "image": {
+                        "src": "assets/img/life-at-tots/world.webp",
+                        "media_id": null,
+                        "alt": "Children painting at an easel, exploring nature and building with wooden blocks in a garden",
+                        "w": 619,
+                        "h": 554
+                    },
+                    "heading_first_line": "Integrated Learning",
+                    "heading_script_line": "One Experience, Many Skills.",
+                    "body_text": "<p>Learning areas are woven together through thematic and inquiry-based experiences, not taught as isolated subjects.</p><p>A single experience, such as exploring a garden, listening to a story, building with blocks or investigating water, brings together language, mathematics, science, physical development, creativity and social-emotional learning.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "campus-life",
+        "file": "campus-life",
+        "title": "Campus Life",
+        "template": "inner",
+        "meta_title": "Campus Life at Ananya Tots | Daily Routine, Celebrations & Events",
+        "meta_description": "A day at Ananya Tots: outdoor play, circle time, provocation tables and mealtimes, plus celebrations, community events and parent participation.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Campus Life:",
+                    "heading_script_line": "A Place Children Love to Be.",
+                    "body_text": "<p>A day at Ananya Tots is a flow of meaningful experiences, not a timetable of periods and subjects. Children play, explore, connect, question and create, and feel part of a caring community.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/learning-approach/community.webp",
+                        "media_id": null,
+                        "alt": "Educator and children gathered together, exploring natural materials",
+                        "w": 634,
+                        "h": 376
+                    },
+                    "text": "“Is my school open today?”"
+                }
+            },
+            {
+                "type": "inner-on-this-page-links",
+                "anchor": null,
+                "data": {
+                    "list": [
+                        "<a href=\"#daily-routine\">Daily Routine</a>",
+                        "<a href=\"#celebrations\">Celebrations</a>",
+                        "<a href=\"#events\">Events</a>",
+                        "<a href=\"#participation\">Parent Participation</a>"
+                    ]
+                }
+            },
+            {
+                "type": "inner-daily-routine",
+                "anchor": "daily-routine",
+                "data": {
+                    "heading_first_line": "One Little Day",
+                    "heading_script_line": "Where Every Part Has a Purpose.",
+                    "body_text": "<p>Learning here is connected and joyful. A story can lead to a question, a question to an investigation, and an investigation to mathematics.</p>",
+                    "items": [
+                        {
+                            "text": "01",
+                            "title": "Outdoor Free Play",
+                            "text_2": "The day begins with possibility. Children choose what to play, who with and how."
+                        },
+                        {
+                            "text": "02",
+                            "title": "Circle Time",
+                            "text_2": "Connecting before learning: we talk, sing, share stories and wonder."
+                        },
+                        {
+                            "text": "03",
+                            "title": "Provocation Tables",
+                            "text_2": "Carefully chosen materials invite children to stop, wonder and investigate."
+                        },
+                        {
+                            "text": "04",
+                            "title": "Language & Literacy",
+                            "text_2": "Stories, songs, rhymes and books build speaking, listening, reading and writing."
+                        },
+                        {
+                            "text": "05",
+                            "title": "Mathematical Thinking",
+                            "text_2": "Mathematics you can touch: blocks, patterns, measuring, sorting and shapes."
+                        },
+                        {
+                            "text": "06",
+                            "title": "Physical Development",
+                            "text_2": "Climbing, balancing, running and jumping build confident movers."
+                        },
+                        {
+                            "text": "07",
+                            "title": "Creative Expression",
+                            "text_2": "Art, theatre, music and dance: many ways to say “This is my idea.”"
+                        },
+                        {
+                            "text": "08",
+                            "title": "Mealtime Together",
+                            "text_2": "Children eat together, serve themselves and practise table manners."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-celebrations",
+                "anchor": "celebrations",
+                "data": {
+                    "heading_first_line": "Celebrations",
+                    "heading_script_line": "Joyful Memories, Together.",
+                    "body_text": "<p>Celebrations build belonging. Children share group experiences and special moments that become joyful memories with friends, teachers and families.</p>",
+                    "title": "Celebrating Together",
+                    "text": "Group experiences that bring the whole class into the fun.",
+                    "title_2": "Celebrating Growth",
+                    "text_2": "We recognise discoveries, growing confidence and everyday achievements.",
+                    "title_3": "Celebrating Cultures",
+                    "text_3": "Respect for cultural diversity is part of who we are.",
+                    "image": {
+                        "src": "assets/img/see-more.webp",
+                        "media_id": null,
+                        "alt": "Children and educators enjoying a joyful outdoor learning garden together",
+                        "w": 768,
+                        "h": 512
+                    }
+                }
+            },
+            {
+                "type": "inner-events",
+                "anchor": "events",
+                "data": {
+                    "heading_first_line": "Events",
+                    "heading_script_line": "Moments for the Whole Community.",
+                    "body_text": "<p>Parents are an important part of our community. Families join community fairs, social causes and special events through the year.</p>",
+                    "items": [
+                        {
+                            "title": "Community Fairs",
+                            "text": "A chance for families and children to meet, share and enjoy."
+                        },
+                        {
+                            "title": "Social Causes",
+                            "text": "Children learn that they can care for others and the world."
+                        },
+                        {
+                            "title": "Special Events",
+                            "text": "Moments to celebrate learning with families."
+                        }
+                    ],
+                    "text": "Upcoming events: [event name, date and time]"
+                }
+            },
+            {
+                "type": "inner-parent-participation",
+                "anchor": "participation",
+                "data": {
+                    "heading_first_line": "Parent Participation",
+                    "heading_script_line": "Child – Parent – Teacher.",
+                    "body_text": "<p>We see every child’s journey as a triangle of Child, Parent and Teacher. Our vision is for Ananya Tots to feel like a second home.</p>",
+                    "title": "Parenting Workshops",
+                    "text": "Regular sessions to help you understand and respond to your child’s needs.",
+                    "title_2": "Child Development Support",
+                    "text_2": "Guidance from child-development professionals on growth, dental care and speech and language.",
+                    "image": {
+                        "src": "assets/img/env-facilitation.webp",
+                        "media_id": null,
+                        "alt": "Educator kneeling to talk with a young girl and her mother",
+                        "w": 642,
+                        "h": 480
+                    },
+                    "title_3": "An Open Community",
+                    "text_3": "You are invited to fairs, celebrations, special events and learning experiences.",
+                    "title_4": "Continuous Communication",
+                    "text_4": "Teachers and parents share observations and celebrate progress together.",
+                    "button": {
+                        "label": "Visit Parents’ Corner",
+                        "url": "/parents-corner",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-come-be-part-of",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Come Be Part Of",
+                    "heading_script_line": "Our Little World",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "life-at-tots",
+        "file": "life-at-tots",
+        "title": "Life at Tots",
+        "template": "inner",
+        "meta_title": "A Day at Ananya Tots | Life at Our Preschool",
+        "meta_description": "Outdoor play, circle time, provocation tables, joyful mealtimes and classrooms designed as the third teacher. See a day at Ananya Tots.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Life at Tots:",
+                    "heading_script_line": "Where Every Part of the Day Has a Purpose.",
+                    "body_text": "<p>At Ananya Tots, the day flows as a series of meaningful experiences, not rigid periods and subjects. It blends planned experiences, spontaneous discoveries and lots of play.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/life-at-tots/hero.webp",
+                        "media_id": null,
+                        "alt": "Smiling girl holding up a leaf among green leaves, with a note reading Curious, Confident, Kind, Creative",
+                        "w": 783,
+                        "h": 545
+                    }
+                }
+            },
+            {
+                "type": "inner-a-day-at-ananya-tots",
+                "anchor": "day",
+                "data": {
+                    "heading_first_line": "A Day At",
+                    "heading_script_line": "Ananya Tots",
+                    "body_text": "<p>Every part of the day offers a chance to learn, sometimes through planned experiences, sometimes through spontaneous discoveries, and often through play.</p>",
+                    "items": [
+                        {
+                            "text": "01",
+                            "title": "Outdoor Free Play"
+                        },
+                        {
+                            "text": "02",
+                            "title": "Circle Time"
+                        },
+                        {
+                            "text": "03",
+                            "title": "Provocation Tables"
+                        },
+                        {
+                            "text": "04",
+                            "title": "Language & Literacy"
+                        },
+                        {
+                            "text": "05",
+                            "title": "Mathematical Thinking"
+                        },
+                        {
+                            "text": "06",
+                            "title": "Physical Development"
+                        },
+                        {
+                            "text": "07",
+                            "title": "Creative Expression"
+                        },
+                        {
+                            "text": "08",
+                            "title": "Personal, Social & Emotional Development"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-child-agency-and-voice",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Child Agency",
+                    "heading_script_line": "& Voice.",
+                    "body_text": "<p>Children are active participants in their own learning.</p>",
+                    "items": [
+                        {
+                            "text": "01",
+                            "title": "Choose",
+                            "text_2": "Children have real opportunities to make choices, share ideas and express their feelings."
+                        },
+                        {
+                            "text": "02",
+                            "title": "Be Heard",
+                            "text_2": "Educators listen closely to children’s words, actions, interests and questions to shape learning."
+                        },
+                        {
+                            "text": "03",
+                            "title": "Express",
+                            "text_2": "Thinking comes alive through words, drawings, movement, music, construction and pretend play."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-shared-meals",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Shared Meals.",
+                    "heading_script_line": "A Sense of Belonging",
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic11.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 102,
+                                "h": 96
+                            },
+                            "title": "A Joyful Dining Hall",
+                            "text": "A warm space where food becomes part of learning and independence."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e52.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 104,
+                                "h": 100
+                            },
+                            "title": "Life Skills",
+                            "text": "Children serve themselves, use cutlery, pour water and practise table manners."
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/life-at-tots/shared.webp",
+                        "media_id": null,
+                        "alt": "Children sitting together in a warm, cosy classroom",
+                        "w": 395,
+                        "h": 458
+                    },
+                    "items_2": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic13.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 90,
+                                "h": 96
+                            },
+                            "title": "Balanced Nutrition",
+                            "text": "Wholesome, planned platters help children explore tastes and textures at their own pace."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e38.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 106,
+                                "h": 100
+                            },
+                            "title": "A Happy Relationship With Food",
+                            "text": "Children leave nourished, confident and well-mannered, and enjoy their food."
+                        }
+                    ],
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-making-learning-visible",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Making Learning",
+                    "heading_script_line": "Visible.",
+                    "body_text": "<p>Children’s learning shows up in many ways: a conversation, a drawing, a construction, a question or a new attempt. We don’t just record what children did; we try to understand the thinking behind it.</p>",
+                    "button": {
+                        "label": "Explore More",
+                        "url": "/learning-approach",
+                        "new_tab": false
+                    },
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e42.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 104,
+                                "h": 100
+                            },
+                            "title": "Observe",
+                            "text": "Teachers notice what children are interested in, what they know and how they are thinking."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e34.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 99
+                            },
+                            "title": "Document",
+                            "text": "Photographs, children’s words, work samples, learning stories and teacher reflections."
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/learning-approach/m2.webp",
+                        "media_id": null,
+                        "alt": "Educator listening closely to a young girl",
+                        "w": 376,
+                        "h": 420
+                    },
+                    "items_2": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic12.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 98,
+                                "h": 95
+                            },
+                            "title": "Respond",
+                            "text": "Documentation helps teachers plan experiences that follow children’s interests and needs."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/about/e56.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 96,
+                                "h": 100
+                            },
+                            "title": "Revisit",
+                            "text": "Children look back at their learning, revisit ideas and see how their thinking has grown."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-infrastructure",
+                "anchor": "infrastructure",
+                "data": {
+                    "heading_first_line": "Our Infrastructure.",
+                    "heading_script_line": "The Third Teacher.",
+                    "body_text": "<p>Every space, material and piece of furniture is designed to encourage children to inquire, discover, construct, create and learn independently. Our classrooms are not places where children simply sit; they are inviting spaces built around young children.</p>",
+                    "button": {
+                        "label": "Our Campus",
+                        "url": "/contact#centres",
+                        "new_tab": false
+                    },
+                    "items": [
+                        {
+                            "image": {
+                                "src": "assets/img/life-at-tots/space2.webp",
+                                "media_id": null,
+                                "alt": "Girl reading on a beanbag beside low, child-height bookshelves",
+                                "w": 416,
+                                "h": 383
+                            },
+                            "title": "1. Child-Friendly Furniture",
+                            "text": "Age-appropriate, safe and easy to move and choose from"
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-4.webp",
+                                "media_id": null,
+                                "alt": "Boy stacking colourful building blocks",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "title": "2. Open-Ended Materials",
+                            "text": "Provocations that invite questions, building and imagination"
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-1.webp",
+                                "media_id": null,
+                                "alt": "Two children painting together at a shared art table",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "title": "3. Group Seating",
+                            "text": "Collaboration, conversation and sharing of ideas"
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/life-at-tots/space3.webp",
+                                "media_id": null,
+                                "alt": "Children making crafts beside a chalkboard reading Small hands make big things",
+                                "w": 416,
+                                "h": 383
+                            },
+                            "title": "4. Eye-Level Displays",
+                            "text": "Children revisit their work and feel ownership and pride"
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/card-2.webp",
+                                "media_id": null,
+                                "alt": "Calm reading corner with wooden shelves, cushions and plants",
+                                "w": 312,
+                                "h": 390
+                            },
+                            "title": "5. Calm, Well-Lit Rooms",
+                            "text": "Soft pastel tones and organised, accessible materials"
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/life-at-tots/space1.webp",
+                                "media_id": null,
+                                "alt": "Outdoor play area with swings and rainbow climbing equipment",
+                                "w": 416,
+                                "h": 383
+                            },
+                            "title": "6. Fine & Gross Motor Play",
+                            "text": "Coordination, confidence and physical development"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-learning-through-the-environment",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Learning Through",
+                    "heading_script_line": "the Environment.",
+                    "body_text": "<p>Our environment is designed to provoke curiosity rather than give all the answers. Thoughtfully placed materials invite children to touch, question, experiment and revisit, and to develop language, mathematical thinking, problem-solving, creativity and social understanding along the way.</p>",
+                    "text": "“What can I do here?” “What will happen if…?” “What else can I discover?”",
+                    "button": {
+                        "label": "Explore Us",
+                        "url": "/learning-approach",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/life-at-tots/world.webp",
+                        "media_id": null,
+                        "alt": "Children painting at an easel and building with wooden blocks in a garden",
+                        "w": 619,
+                        "h": 554
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "facilities",
+        "file": "facilities",
+        "title": "Facilities",
+        "template": "inner",
+        "meta_title": "Facilities at Ananya Tots | Classrooms, Play Areas & Safety",
+        "meta_description": "Calm, child-friendly classrooms, indoor and outdoor play areas, an art atelier, theatre, music space and dining hall, designed as the third teacher.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Spaces That",
+                    "heading_script_line": "Invite Discovery.",
+                    "body_text": "<p>At Ananya Tots, the environment is the third teacher. Every space, material and piece of furniture is designed so children can inquire, explore, create and learn independently.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/parents/spaces.webp",
+                        "media_id": null,
+                        "alt": "Bright, child-friendly classroom with reading nooks, round tables and an outdoor nature play area",
+                        "w": 762,
+                        "h": 696
+                    },
+                    "text": "What can I do here?"
+                }
+            },
+            {
+                "type": "inner-on-this-page-links",
+                "anchor": null,
+                "data": {
+                    "list": [
+                        "<a href=\"#classrooms\">Smart Classrooms</a>",
+                        "<a href=\"#indoor\">Indoor Play Area</a>",
+                        "<a href=\"#outdoor\">Outdoor Play Area</a>",
+                        "<a href=\"#activity-rooms\">Activity Rooms</a>",
+                        "<a href=\"#safety\">Safety &amp; Security</a>"
+                    ]
+                }
+            },
+            {
+                "type": "inner-smart-classrooms",
+                "anchor": "classrooms",
+                "data": {
+                    "heading_first_line": "Smart Classrooms",
+                    "heading_script_line": "Calm, Bright and Child-Friendly.",
+                    "body_text": "<p>A class of 25 is organised so children can move in small groups of 5–8 between learning centres, each offering a different way to explore the same idea.</p>",
+                    "title": "Child-Friendly Furniture",
+                    "text": "Children move freely, make choices and reach materials on their own.",
+                    "title_2": "Provocations & Open-Ended Materials",
+                    "text_2": "Resources that invite children to question, build, imagine and create.",
+                    "image": {
+                        "src": "assets/img/programs/reading-corner.webp",
+                        "media_id": null,
+                        "alt": "Classroom learning centre with low wooden shelves, books and cushions",
+                        "w": 404,
+                        "h": 433
+                    },
+                    "title_3": "Group Seating",
+                    "text_3": "Tables that encourage conversation while keeping every child included.",
+                    "title_4": "Eye-Level Displays",
+                    "text_4": "Children revisit their work and feel proud of it.",
+                    "title_5": "Light, Calm Colours",
+                    "text_5": "Well-lit rooms with soft pastel tones feel warm and welcoming."
+                }
+            },
+            {
+                "type": "inner-indoor-play-area",
+                "anchor": "indoor",
+                "data": {
+                    "heading_first_line": "Indoor Play Area",
+                    "heading_script_line": "Room to Play, Build and Pretend.",
+                    "body_text": "<p>Play corners where children touch, explore, build and pretend, and choose, collaborate and discover.</p>",
+                    "items": [
+                        {
+                            "title": "Block & Construction Play",
+                            "text": "Blocks may become a bridge, a city or a home."
+                        },
+                        {
+                            "title": "Sensory Play",
+                            "text": "Sand, water, dough and natural objects to touch, feel and experiment with."
+                        },
+                        {
+                            "title": "Reading & Role-Play Corners",
+                            "text": "Quiet spaces for stories and lively spaces for pretend play."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-outdoor-play-area",
+                "anchor": "outdoor",
+                "data": {
+                    "heading_first_line": "Outdoor Play Area",
+                    "heading_script_line": "Where Bodies and Imaginations Grow.",
+                    "body_text": "<p>Many ways to climb, balance, jump, run, crawl and swing, with thoughtfully designed equipment and jungle gym experiences that build strength, coordination and confidence.</p>",
+                    "items": [
+                        {
+                            "title": "Climbing & Balancing",
+                            "text": "Challenges that grow with the child."
+                        },
+                        {
+                            "title": "Free Play Spaces",
+                            "text": "Room to decide what to play, with whom and how."
+                        },
+                        {
+                            "title": "Nature & Gardening",
+                            "text": "Places to plant, dig, observe and wonder."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-activity-rooms",
+                "anchor": "activity-rooms",
+                "data": {
+                    "heading_first_line": "Activity Rooms",
+                    "heading_script_line": "Many Ways to Express an Idea.",
+                    "body_text": "<p>Dedicated spaces where ideas become art, drama, music and shared meals.</p>",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "assets/img/about/painting.webp",
+                                "media_id": null,
+                                "alt": "Two children painting together at a table of paint pots",
+                                "w": 458,
+                                "h": 498
+                            },
+                            "title": "Art Atelier",
+                            "text": "Paint, clay, colour and open-ended materials for making ideas visible."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/life-at-tots/act10.webp",
+                                "media_id": null,
+                                "alt": "Children gathered around a teacher acting out a story",
+                                "w": 268,
+                                "h": 232
+                            },
+                            "title": "Theatre",
+                            "text": "A stage for imaginative and dramatic play."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/life-at-tots/act13.webp",
+                                "media_id": null,
+                                "alt": "Girl dancing joyfully with her arms raised",
+                                "w": 270,
+                                "h": 232
+                            },
+                            "title": "Music & Dance Space",
+                            "text": "Rhythm, songs and movement."
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/care-bg.webp",
+                                "media_id": null,
+                                "alt": "Paper-craft scene of children sharing a meal at a table",
+                                "w": 836,
+                                "h": 470
+                            },
+                            "title": "Dining Hall",
+                            "text": "A warm space to eat together, build independence and learn about healthy food."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-safety-and-security",
+                "anchor": "safety",
+                "data": {
+                    "heading_first_line": "Safety & Security",
+                    "heading_script_line": "Safe to Explore, Safe to Belong.",
+                    "body_text": "<p>Children explore best when they feel safe. Our classrooms are calm and well lit, equipment is age-appropriate, and a caring educator is always close by.</p>",
+                    "items": [
+                        {
+                            "title": "Age-Appropriate Equipment",
+                            "text": "Chosen for children’s comfort, safety and independence."
+                        },
+                        {
+                            "title": "Attentive Educators",
+                            "text": "Teachers observe, listen and stay close as children explore."
+                        },
+                        {
+                            "title": "Emotional Safety",
+                            "text": "Connection first. Every child is seen, heard and valued."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-come-see",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Come See",
+                    "heading_script_line": "Our Spaces",
+                    "button": {
+                        "label": "Arrange a Visit",
+                        "url": "/contact?type=visit#enquiry",
+                        "new_tab": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "slug": "parents",
+        "file": "parents",
+        "title": "Parents",
+        "template": "inner",
+        "meta_title": "Parent Partnership | Ananya Tots Preschool",
+        "meta_description": "Parents are partners. Parenting workshops, child development support, programme timings and resources, all in one place.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Growing Together.",
+                    "heading_script_line": "Every Little Step.",
+                    "body_text": "<p>Parents are a child’s first and most important teachers. Ananya Tots strives to be a second home: a safe, loving and supportive space where children feel cared for and parents feel reassured and included.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/parents/hero.webp",
+                        "media_id": null,
+                        "alt": "Parent and educator sitting with a young boy playing with colourful blocks",
+                        "w": 788,
+                        "h": 498
+                    },
+                    "text": "Your child, at the heart"
+                }
+            },
+            {
+                "type": "inner-quick-links",
+                "anchor": null,
+                "data": {
+                    "items": [
+                        {
+                            "link_url": "#schedule",
+                            "icon": {
+                                "src": "assets/img/parents/q1.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 60,
+                                "h": 63
+                            },
+                            "title": "Programme Timings",
+                            "text": "View your child’s programme schedule."
+                        },
+                        {
+                            "link_url": "#community",
+                            "icon": {
+                                "src": "assets/img/parents/q2.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 60,
+                                "h": 62
+                            },
+                            "title": "Family Participation",
+                            "text": "Discover ways to take part in school life."
+                        },
+                        {
+                            "link_url": "#information",
+                            "icon": {
+                                "src": "assets/img/parents/q3.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 60,
+                                "h": 61
+                            },
+                            "title": "Parent Resources",
+                            "text": "Find useful information and guidance."
+                        },
+                        {
+                            "link_url": "/contact",
+                            "icon": {
+                                "src": "assets/img/parents/q4.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 60,
+                                "h": 59
+                            },
+                            "title": "Contact the Team",
+                            "text": "Ask a question or start a conversation."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-the-ananya-tots-triangle",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "The Ananya Tots",
+                    "heading_script_line": "Triangle.",
+                    "body_text": "<p>Child, parent and teacher form one connected triangle that nurtures the whole child.</p>",
+                    "text": "Child",
+                    "text_2": "Parent",
+                    "text_3": "Teacher",
+                    "text_4": "The Ananya Tots<br/>Triangle",
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic11.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 102,
+                                "h": 96
+                            },
+                            "title": "A Shared Language",
+                            "text": "When home and school share love, respect, care and encouragement, children feel secure to explore, make mistakes and grow into confident learners."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic12.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 98,
+                                "h": 95
+                            },
+                            "title": "Continuous Communication",
+                            "text": "Teachers and parents keep sharing observations for consistent support at home and at school."
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/parents/ic13.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 90,
+                                "h": 96
+                            },
+                            "title": "A Community Around Every Child",
+                            "text": "Ananya Tots goes beyond education to build a supportive community around every child."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-be-part-of-their-little-world",
+                "anchor": "community",
+                "data": {
+                    "heading_first_line": "Be Part Of",
+                    "heading_script_line": "Their Little World.",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "assets/img/parents/c15.webp",
+                                "media_id": null,
+                                "alt": "Parents and children at a workshop activity",
+                                "w": 388,
+                                "h": 422
+                            },
+                            "title": "Parenting Workshops",
+                            "text": "Regular sessions that help parents understand and respond to their child’s needs, to raise confident and secure children.",
+                            "button": {
+                                "label": "Learn More",
+                                "url": "/contact#enquiry",
+                                "new_tab": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/parents/c16.webp",
+                                "media_id": null,
+                                "alt": "Educator listening to a young girl",
+                                "w": 376,
+                                "h": 420
+                            },
+                            "title": "Child Development Support",
+                            "text": "Professional guidance and interventions covering physical growth, dental care, speech and overall wellbeing.",
+                            "button": {
+                                "label": "Learn More",
+                                "url": "/contact#enquiry",
+                                "new_tab": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/parents/c17.webp",
+                                "media_id": null,
+                                "alt": "Boy building with colourful blocks",
+                                "w": 392,
+                                "h": 416
+                            },
+                            "title": "An Open Community",
+                            "text": "Parents take an active part in community fairs, celebrations and special events through the year.",
+                            "button": {
+                                "label": "Learn More",
+                                "url": "/contact#enquiry",
+                                "new_tab": false
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-programme-schedule",
+                "anchor": "schedule",
+                "data": {
+                    "heading_first_line": "Plan Their",
+                    "heading_script_line": "Little Day",
+                    "body_text": "<p>Find programme timings at a glance, and please confirm your child’s assigned session with our team.</p>",
+                    "text": "Programme Schedule",
+                    "items": [
+                        {
+                            "text": "Programme"
+                        },
+                        {
+                            "text": "Days"
+                        },
+                        {
+                            "text": "Timings"
+                        }
+                    ],
+                    "items_2": [
+                        {
+                            "text": "Mother-Infant, 8–12 months",
+                            "text_2": "Mon, Tue, Fri",
+                            "text_3": "9–11 am or 4–6 pm"
+                        },
+                        {
+                            "text": "Mother-Infant, 13–18 months",
+                            "text_2": "Tue, Thu, Sat",
+                            "text_3": "9–11 am or 4–6 pm"
+                        },
+                        {
+                            "text": "Playgroup 1",
+                            "text_2": "Mon–Fri",
+                            "text_3": "9:00 am – 12:00 noon"
+                        },
+                        {
+                            "text": "Playgroup 2",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30–11:30 am"
+                        },
+                        {
+                            "text": "Nursery",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30 am – 12:00 noon"
+                        },
+                        {
+                            "text": "K1 and K2",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30 am – 1:00 pm"
+                        }
+                    ],
+                    "button": {
+                        "label": "Call Us",
+                        "url": "tel:+919316049220",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-useful-information",
+                "anchor": "information",
+                "data": {
+                    "heading_first_line": "Useful Information",
+                    "heading_script_line": "At One Place.",
+                    "body_text": "<p>Everything you need for the school year, in one spot.</p>",
+                    "items": [
+                        {
+                            "link_url": "#academic-calendar",
+                            "text": "Academic Calendar"
+                        },
+                        {
+                            "link_url": "#uniform",
+                            "text": "Uniform Guidance"
+                        },
+                        {
+                            "link_url": "#meals",
+                            "text": "Meals & Dietary Guidance"
+                        },
+                        {
+                            "link_url": "#transport",
+                            "text": "Transport Information"
+                        },
+                        {
+                            "link_url": "#handbook",
+                            "text": "Parent Handbook"
+                        },
+                        {
+                            "link_url": "#term-dates",
+                            "text": "Holiday / Term Information"
+                        }
+                    ],
+                    "image": {
+                        "src": "assets/img/parents/spaces.webp",
+                        "media_id": null,
+                        "alt": "Sunlit classroom with reading nooks, round tables and an outdoor nature play area",
+                        "w": 762,
+                        "h": 696
+                    }
+                }
+            },
+            {
+                "type": "inner-before-you-visit-a-few-helpful-answers--2",
+                "anchor": "faq",
+                "data": {
+                    "heading_first_line": "Before You Visit",
+                    "heading_script_line": "A Few Helpful Answers.",
+                    "faq_items": [
+                        {
+                            "question": "How can I participate in school life?",
+                            "answer": "<p>Parents are an important part of our community. We invite families to parenting workshops, community fairs, celebrations, social causes and special events. Contact the team for current arrangements.</p>"
+                        },
+                        {
+                            "question": "Where can I find programme timings?",
+                            "answer": "<p>Timings for every programme are listed on our <a href=\"/programs\">Programmes</a> page and in the schedule on the <a href=\"/parents#schedule\">Parents</a> page. Please confirm your child’s assigned session with our team.</p>"
+                        },
+                        {
+                            "question": "How can I share a question with the team?",
+                            "answer": "<p>Fill in the <a href=\"/contact#enquiry\">enquiry form</a>, call +91 93160 49220 or email hello@ananyatots.com, and our team will get back to you.</p>"
+                        },
+                        {
+                            "question": "How will I receive important school information?",
+                            "answer": "<p>Important updates are shared directly with families by the Ananya Tots team. Contact the team for current arrangements.</p>"
+                        }
+                    ],
+                    "faq_first_open": true,
+                    "faq_schema": false
+                }
+            }
+        ]
+    },
+    {
+        "slug": "parents-corner",
+        "file": "parents-corner",
+        "title": "Parents’ Corner",
+        "template": "inner",
+        "meta_title": "Parents’ Corner | Timings, Calendar, Meals & Transport | Ananya Tots",
+        "meta_description": "School timings, academic calendar, uniform, meal plan, transport and parent communication for Ananya Tots families, all in one place.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Parents’ Corner:",
+                    "heading_script_line": "Everything in One Place.",
+                    "body_text": "<p>Everything you need for the school year, from timings and calendar to meals, transport and staying in touch.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/admissions/hero.webp",
+                        "media_id": null,
+                        "alt": "Mother and daughter greeted warmly by an Ananya Tots educator at school",
+                        "w": 778,
+                        "h": 540
+                    },
+                    "text": "Home and school, together."
+                }
+            },
+            {
+                "type": "inner-on-this-page-links",
+                "anchor": null,
+                "data": {
+                    "list": [
+                        "<a href=\"#timings\">School Timings</a>",
+                        "<a href=\"#calendar\">Academic Calendar</a>",
+                        "<a href=\"#uniform\">Uniform</a>",
+                        "<a href=\"#meals\">Meal Plan</a>",
+                        "<a href=\"#transport\">Transport</a>",
+                        "<a href=\"#communication\">Parent Communication</a>"
+                    ]
+                }
+            },
+            {
+                "type": "inner-school-timings",
+                "anchor": "timings",
+                "data": {
+                    "heading_first_line": "Plan Their",
+                    "heading_script_line": "Little Day",
+                    "body_text": "<p>Please confirm your child’s assigned session with the Ananya Tots team.</p>",
+                    "items": [
+                        {
+                            "text": "Programme"
+                        },
+                        {
+                            "text": "Days"
+                        },
+                        {
+                            "text": "Timings"
+                        }
+                    ],
+                    "items_2": [
+                        {
+                            "text": "Mother-Infant, 8–12 months",
+                            "text_2": "Mon, Tue, Fri",
+                            "text_3": "9–11 am or 4–6 pm"
+                        },
+                        {
+                            "text": "Mother-Infant, 13–18 months",
+                            "text_2": "Tue, Thu, Sat",
+                            "text_3": "9–11 am or 4–6 pm"
+                        },
+                        {
+                            "text": "Playgroup 1",
+                            "text_2": "Mon–Fri",
+                            "text_3": "9:00 am – 12:00 noon"
+                        },
+                        {
+                            "text": "Playgroup 2",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30–11:30 am"
+                        },
+                        {
+                            "text": "Nursery",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30 am – 12:00 noon"
+                        },
+                        {
+                            "text": "K1 and K2",
+                            "text_2": "Mon–Fri",
+                            "text_3": "8:30 am – 1:00 pm"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-academic-calendar",
+                "anchor": "calendar",
+                "data": {
+                    "heading_first_line": "Academic Calendar",
+                    "heading_script_line": "Plan the Year Ahead.",
+                    "body_text": "<p>Our calendar lists term dates, planned breaks and school events.</p>",
+                    "list": [
+                        "Diwali Break",
+                        "Christmas Break",
+                        "Summer Vacation",
+                        "National Holidays",
+                        "Festival Holidays"
+                    ],
+                    "text": "[Dates to be confirmed]",
+                    "button": {
+                        "label": "Download Calendar",
+                        "url": "#download-calendar",
+                        "new_tab": false
+                    }
+                }
+            },
+            {
+                "type": "inner-uniform",
+                "anchor": "uniform",
+                "data": {
+                    "image": {
+                        "src": "assets/img/card-4.webp",
+                        "media_id": null,
+                        "alt": "Boy in the Ananya Tots uniform stacking colourful blocks",
+                        "w": 312,
+                        "h": 390
+                    },
+                    "heading_first_line": "Uniform",
+                    "heading_script_line": "Comfortable for Play.",
+                    "body_text": "<p>Children climb, build, paint and play all day, so comfort matters.</p>"
+                }
+            },
+            {
+                "type": "inner-meal-plan",
+                "anchor": "meals",
+                "data": {
+                    "heading_first_line": "Meal Plan",
+                    "heading_script_line": "Food Is Part of Learning.",
+                    "body_text": "<p>Our dining hall is a warm, joyful space where children eat together, serve themselves, pour their own water and practise table manners, without mealtimes becoming a struggle.</p>",
+                    "items": [
+                        {
+                            "title": "Wholesome Platters",
+                            "text": "Colourful, balanced meals from breakfast through lunch, so children discover new tastes at their own pace."
+                        },
+                        {
+                            "title": "Healthy Habits",
+                            "text": "Food-group visuals on the walls help children understand what a growing body needs."
+                        }
+                    ],
+                    "title": "Weekly Menu",
+                    "items_2": [
+                        {
+                            "text": "Day"
+                        },
+                        {
+                            "text": "Menu"
+                        }
+                    ],
+                    "items_3": [
+                        {
+                            "text": "Monday",
+                            "text_2": "[Menu]"
+                        },
+                        {
+                            "text": "Tuesday",
+                            "text_2": "[Menu]"
+                        },
+                        {
+                            "text": "Wednesday",
+                            "text_2": "[Menu]"
+                        },
+                        {
+                            "text": "Thursday",
+                            "text_2": "[Menu]"
+                        },
+                        {
+                            "text": "Friday",
+                            "text_2": "[Menu]"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-transport",
+                "anchor": "transport",
+                "data": {
+                    "heading_first_line": "Transport",
+                    "heading_script_line": "Getting to School, Simply.",
+                    "body_text": "<p>For Mother-Infant sessions, a parent stays with the child.</p>"
+                }
+            },
+            {
+                "type": "inner-parent-communication",
+                "anchor": "communication",
+                "data": {
+                    "heading_first_line": "Always In",
+                    "heading_script_line": "Conversation.",
+                    "body_text": "<p>Teachers and parents work together to understand each child, share observations, celebrate progress and give consistent support between home and school.</p>",
+                    "items": [
+                        {
+                            "title": "Learning Stories",
+                            "text": "Photographs, children’s words, work samples and teacher reflections show how your child is learning."
+                        },
+                        {
+                            "title": "Everyday Conversations",
+                            "text": "Share what you notice at home. We share what we see at school."
+                        },
+                        {
+                            "title": "Workshops & Events",
+                            "text": "Parenting workshops and community events keep us connected."
+                        }
+                    ],
+                    "text": "<a href=\"tel:+919316049220\">[phone]</a> (Mon–Sat, 9:00 am – 6:00 pm) · <a href=\"mailto:hello@ananyatots.com\">[email]</a>"
+                }
+            }
+        ]
+    },
+    {
+        "slug": "admissions",
+        "file": "admissions",
+        "title": "Admissions",
+        "template": "inner",
+        "meta_title": "Preschool Admissions Open | Ananya Tots Ahmedabad",
+        "meta_description": "Fill in the enquiry form to schedule a personalised school tour. Find the right programme for your child, from Mother-Infant to K2.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Little Step For",
+                    "heading_script_line": "a Meaningful Journey.",
+                    "body_text": "<p>From Mother-Infant through K2, we nurture foundational journeys in a safe, joyful environment. See how these early experiences build confidence and prepare children to move smoothly into main school.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/admissions/hero.webp",
+                        "media_id": null,
+                        "alt": "Mother and daughter greeted warmly by an Ananya Tots educator",
+                        "w": 778,
+                        "h": 540
+                    },
+                    "text": "Welcome in"
+                }
+            },
+            {
+                "type": "inner-how-admissions-work",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Let’s Get To",
+                    "heading_script_line": "Know Each Other",
+                    "body_text": "<p>Our admission journey is simple and personal. Fill in the enquiry form online to schedule a personalised school tour, where you can explore our learning environments, meet our educators and experience our play-based, experiential approach first-hand.</p>",
+                    "items": [
+                        {
+                            "background_image": {
+                                "src": "assets/img/admissions/s1.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "title": "1. Send an Enquiry",
+                            "text": "Fill in the enquiry form online."
+                        },
+                        {
+                            "background_image": {
+                                "src": "assets/img/admissions/s2.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "title": "2. Connect With Our Team",
+                            "text": "We call you to schedule a personalised school tour."
+                        },
+                        {
+                            "background_image": {
+                                "src": "assets/img/admissions/s3.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "title": "3. Visit Us",
+                            "text": "Explore our spaces, meet our educators and see play-based learning first-hand."
+                        },
+                        {
+                            "background_image": {
+                                "src": "assets/img/admissions/s4.webp",
+                                "media_id": null,
+                                "alt": ""
+                            },
+                            "title": "4. Next Step",
+                            "text": "We guide you through the admission process."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-programmes-and-age-groups",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Find Their",
+                    "heading_script_line": "Starting Point.",
+                    "body_text": "<p>Our programmes grow with your child. Find the stage that fits and we will help you with the rest.</p>",
+                    "text": "Programmes and age groups",
+                    "items": [
+                        {
+                            "text": "Programme"
+                        },
+                        {
+                            "text": "Age group"
+                        }
+                    ],
+                    "items_2": [
+                        {
+                            "text": "Mother-Infant",
+                            "text_2": "8–12 months and 13–18 months"
+                        },
+                        {
+                            "text": "Playgroup",
+                            "text_2": "1.6–2.6 years and 2.6–3 years"
+                        },
+                        {
+                            "text": "Nursery",
+                            "text_2": "3–4 years"
+                        },
+                        {
+                            "text": "Junior KG (K1)",
+                            "text_2": "4–5 years"
+                        },
+                        {
+                            "text": "Senior KG (K2)",
+                            "text_2": "5–6 years"
+                        }
+                    ],
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/admissions/blocks.webp",
+                        "media_id": null,
+                        "alt": "Boy building a colourful block tower",
+                        "w": 419,
+                        "h": 444
+                    }
+                }
+            },
+            {
+                "type": "inner-tell-us-a-little-about-your-little-one",
+                "anchor": "enquiry",
+                "data": {
+                    "heading_first_line": "Tell Us a Little",
+                    "heading_script_line": "About Your Little One.",
+                    "body_text": "<p>Share your details and what you would like to know. Our team will contact you to discuss your enquiry or arrange a personalised school tour.</p>"
+                }
+            },
+            {
+                "type": "inner-before-you-visit-a-few-helpful-answers--3",
+                "anchor": "faq",
+                "data": {
+                    "heading_first_line": "Before You Visit",
+                    "heading_script_line": "A Few Helpful Answers.",
+                    "faq_items": [
+                        {
+                            "question": "How can I participate in school life?",
+                            "answer": "<p>Parents are an important part of our community. We invite families to parenting workshops, community fairs, celebrations, social causes and special events. Contact the team for current arrangements.</p>"
+                        },
+                        {
+                            "question": "Where can I find programme timings?",
+                            "answer": "<p>Timings for every programme are listed on our <a href=\"/programs\">Programmes</a> page and in the schedule on the <a href=\"/parents#schedule\">Parents</a> page. Please confirm your child’s assigned session with our team.</p>"
+                        },
+                        {
+                            "question": "How can I share a question with the team?",
+                            "answer": "<p>Fill in the <a href=\"/contact#enquiry\">enquiry form</a>, call +91 93160 49220 or email hello@ananyatots.com, and our team will get back to you.</p>"
+                        },
+                        {
+                            "question": "How will I receive important school information?",
+                            "answer": "<p>Important updates are shared directly with families by the Ananya Tots team. Contact the team for current arrangements.</p>"
+                        }
+                    ],
+                    "faq_first_open": true,
+                    "faq_schema": false
+                }
+            }
+        ]
+    },
+    {
+        "slug": "careers",
+        "file": "careers",
+        "title": "Careers",
+        "template": "inner",
+        "meta_title": "Careers at Ananya Tots | Early Years Teaching Jobs in Ahmedabad",
+        "meta_description": "Join Ananya Tots as an early years educator. Who we are looking for, our work culture, professional development, working Saturdays and how to apply.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Careers at Ananya Tots:",
+                    "heading_script_line": "Come Grow With Us.",
+                    "body_text": "<p>Growing minds. Nurturing hearts. Inspiring possibilities. We are looking for educators who see teaching as much more than delivering lessons.</p>",
+                    "button": {
+                        "label": "Apply Now",
+                        "url": "#apply",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/learning-approach/hero.webp",
+                        "media_id": null,
+                        "alt": "Educator exploring pine cones and leaves with two children",
+                        "w": 708,
+                        "h": 472
+                    },
+                    "text": "Come grow with us."
+                }
+            },
+            {
+                "type": "inner-a-teacher-is-more-than-a-teacher-here",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Teacher Is More Than",
+                    "heading_script_line": "a Teacher Here.",
+                    "body_text": "<p>At Ananya Tots, every child deserves the same care, respect, patience and understanding we would want for our own child. A teacher is a facilitator, observer, learner, creator and trusted adult in a child’s world.</p>"
+                }
+            },
+            {
+                "type": "inner-who-we-are-looking-for",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Who We Are",
+                    "heading_script_line": "Looking For",
+                    "body_text": "<p>We welcome educators who are:</p>",
+                    "items": [
+                        {
+                            "item": "Qualified in ECCE, B.Ed. or a relevant early childhood programme"
+                        },
+                        {
+                            "item": "Familiar with Montessori, Reggio Emilia, IB, Finnish or play-based learning (an added advantage)"
+                        },
+                        {
+                            "item": "Warm, patient, responsible and passionate about young children"
+                        },
+                        {
+                            "item": "A proactive learner committed to professional development"
+                        },
+                        {
+                            "item": "Creative with art, dance, music, movement, storytelling and play"
+                        },
+                        {
+                            "item": "Confident in planning, observing, documenting and meeting timelines"
+                        },
+                        {
+                            "item": "Strong in spoken and written English"
+                        },
+                        {
+                            "item": "Smartly presented and confident in your professional presence"
+                        },
+                        {
+                            "item": "Comfortable working from 8:00 am to 4:00 pm"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-our-work-culture",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Our Work",
+                    "heading_script_line": "Culture",
+                    "body_text": "<p>A positive school begins with a healthy, respectful workplace. We do not encourage workplace politics, gossip or negativity. We invest our energy in children, learning, creativity and a happy school.</p>",
+                    "list": [
+                        "Work-Life Balance",
+                        "Professionalism",
+                        "Teamwork",
+                        "Mutual Respect",
+                        "Continuous Learning"
+                    ]
+                }
+            },
+            {
+                "type": "inner-learning-never-stops",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Learning Never Stops",
+                    "heading_script_line": "at Ananya Tots.",
+                    "body_text": "<p>Our educators are encouraged to:</p>",
+                    "items": [
+                        {
+                            "title": "Professional Development",
+                            "text": "Take part actively in training and growth."
+                        },
+                        {
+                            "title": "Reflect",
+                            "text": "Think about your own teaching practice."
+                        },
+                        {
+                            "title": "Learn From Others",
+                            "text": "Colleagues and mentors share and support."
+                        },
+                        {
+                            "title": "Explore New Ideas",
+                            "text": "New approaches in early childhood education."
+                        },
+                        {
+                            "title": "Observe & Plan",
+                            "text": "Use what you notice to plan meaningful experiences."
+                        },
+                        {
+                            "title": "Document",
+                            "text": "Share children’s learning journeys."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-saturdays-events-and-planned-breaks",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "Saturdays, Events",
+                    "heading_script_line": "& Planned Breaks",
+                    "body_text": "<p>We value your time with family, and building community with children and families.</p>",
+                    "items": [
+                        {
+                            "title": "Working Saturdays & Events",
+                            "text": "Second Saturday is a working day, 8:00 am to 1:00 pm, for professional development. Teachers also join about 2–3 occasional Saturday events a year."
+                        },
+                        {
+                            "title": "Holidays & Planned Breaks",
+                            "text": "Diwali Break, Christmas Break, Summer Vacation, National and Festival Holidays. The annual calendar is shared at the start of each academic year."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-what-we-expect-from-our-educators",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "What We Expect",
+                    "heading_script_line": "From Our Educators",
+                    "list": [
+                        "Show up with warmth",
+                        "Work with integrity",
+                        "Take responsibility",
+                        "Keep learning",
+                        "Support your team",
+                        "Respect every child",
+                        "Believe in every child’s potential"
+                    ]
+                }
+            },
+            {
+                "type": "inner-if-you-believe-in-growing-with-us",
+                "anchor": "apply",
+                "data": {
+                    "heading_first_line": "If You Believe In",
+                    "heading_script_line": "Growing With Us",
+                    "body_text": "<p>Fill in the vacancy form and the school will get in touch soon, or email your CV and a recent photograph to <a href=\"mailto:hr@ananyatots.com\">[hr@ananyatots.com, to be confirmed]</a>.</p>"
+                }
+            },
+            {
+                "type": "inner-join-our-community",
+                "anchor": null,
+                "data": {
+                    "text": "“As a mother never gives up on her child, a teacher never gives up on her students.”",
+                    "text_2": "At Ananya Tots, we don’t just hire teachers. We welcome educators who want to join a community that believes in children, in learning and in one another. Come grow with us. Come inspire young minds.",
+                    "text_3": "“The first five years have so much to do with how the next 80 turn out.” – Bill Gates"
+                }
+            }
+        ]
+    },
+    {
+        "slug": "contact",
+        "file": "contact",
+        "title": "Contact",
+        "template": "inner",
+        "meta_title": "Contact Ananya Tots | Book a School Visit",
+        "meta_description": "Call, email or visit Ananya Tots in Ahmedabad. Arrange a visit to explore our learning spaces and meet our educators.",
+        "robots": "index, follow, max-image-preview:large",
+        "sections": [
+            {
+                "type": "inner-page-hero--2",
+                "anchor": null,
+                "data": {
+                    "heading_first_line": "A Little Conversation",
+                    "heading_script_line": "A Wonderful Beginning.",
+                    "body_text": "<p>Have a question about our programmes, or planning your child’s first steps into preschool? Connect with our team to learn more or arrange a personalised school tour.</p>",
+                    "button": {
+                        "label": "Book a Visit",
+                        "url": "/contact#enquiry",
+                        "new_tab": false
+                    },
+                    "image": {
+                        "src": "assets/img/contact/hero.webp",
+                        "media_id": null,
+                        "alt": "Parent and educator sitting with a young boy playing with colourful blocks",
+                        "w": 642,
+                        "h": 406
+                    },
+                    "text": "Say hello"
+                }
+            },
+            {
+                "type": "inner-contact-details",
+                "anchor": null,
+                "data": {
+                    "items": [
+                        {
+                            "icon": {
+                                "src": "assets/img/contact/call.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 176,
+                                "h": 136
+                            },
+                            "heading": "Call Our Team",
+                            "text": "<a href=\"tel:+919316049220\">[+91 93160 49220]</a><br/>Mon–Sat, 9:00 am – 6:00 pm"
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/contact/email.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 201,
+                                "h": 136
+                            },
+                            "heading": "Email Us",
+                            "text": "<a href=\"mailto:admissions@ananyatots.com\">[admissions@ananyatots.com]</a>"
+                        },
+                        {
+                            "icon": {
+                                "src": "assets/img/contact/visit.webp",
+                                "media_id": null,
+                                "alt": "",
+                                "w": 192,
+                                "h": 144
+                            },
+                            "heading": "Visit Our Centres",
+                            "text": "[Centre name, street address,<br/>Ahmedabad, Gujarat PIN]"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-tell-us-a-little-about-your-little-one--2",
+                "anchor": "enquiry",
+                "data": {
+                    "heading_first_line": "Tell Us a Little",
+                    "heading_script_line": "About Your Little One.",
+                    "body_text": "<p>Share your details and what you would like to know. Our team will contact you to discuss your enquiry or arrange a personalised school tour.</p>"
+                }
+            },
+            {
+                "type": "inner-our-centres",
+                "anchor": "centres",
+                "data": {
+                    "heading_first_line": "Come Explore",
+                    "heading_script_line": "Their Little World.",
+                    "body_text": "<p>Please arrange your visit with our team before coming in.</p>",
+                    "items": [
+                        {
+                            "image": {
+                                "src": "assets/img/contact/house1.webp",
+                                "media_id": null,
+                                "alt": "Illustration of the Zundal centre",
+                                "w": 262,
+                                "h": 244
+                            },
+                            "text": "Zundal",
+                            "text_2": "[Full address]",
+                            "text_3": "[Map location]",
+                            "button": {
+                                "label": "Arrange a Visit",
+                                "url": "/contact?type=visit#enquiry",
+                                "new_tab": false
+                            },
+                            "link": {
+                                "label": "Get Directions",
+                                "url": "#map-placeholder",
+                                "new_tab": false
+                            }
+                        },
+                        {
+                            "image": {
+                                "src": "assets/img/contact/house2.webp",
+                                "media_id": null,
+                                "alt": "Illustration of the Lilapur centre",
+                                "w": 263,
+                                "h": 246
+                            },
+                            "text": "Lilapur",
+                            "text_2": "[Full address]",
+                            "text_3": "[Map location]",
+                            "button": {
+                                "label": "Arrange a Visit",
+                                "url": "/contact?type=visit#enquiry",
+                                "new_tab": false
+                            },
+                            "link": {
+                                "label": "Get Directions",
+                                "url": "#map-placeholder",
+                                "new_tab": false
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "inner-before-you-visit-a-few-helpful-answers--4",
+                "anchor": "faq",
+                "data": {
+                    "heading_first_line": "Before You Visit",
+                    "heading_script_line": "A Few Helpful Answers.",
+                    "faq_items": [
+                        {
+                            "question": "How can I participate in school life?",
+                            "answer": "<p>Parents are an important part of our community. We invite families to parenting workshops, community fairs, celebrations, social causes and special events. Contact the team for current arrangements.</p>"
+                        },
+                        {
+                            "question": "Where can I find programme timings?",
+                            "answer": "<p>Timings for every programme are listed on our <a href=\"/programs\">Programmes</a> page and in the schedule on the <a href=\"/parents#schedule\">Parents</a> page. Please confirm your child’s assigned session with our team.</p>"
+                        },
+                        {
+                            "question": "How can I share a question with the team?",
+                            "answer": "<p>Fill in the <a href=\"/contact#enquiry\">enquiry form</a>, call +91 93160 49220 or email hello@ananyatots.com, and our team will get back to you.</p>"
+                        },
+                        {
+                            "question": "How will I receive important school information?",
+                            "answer": "<p>Important updates are shared directly with families by the Ananya Tots team. Contact the team for current arrangements.</p>"
+                        }
+                    ],
+                    "faq_first_open": true,
+                    "faq_schema": false
+                }
+            }
+        ]
+    }
+]

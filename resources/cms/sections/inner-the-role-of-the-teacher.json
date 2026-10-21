@@ -1,0 +1,113 @@
+{
+ "key": "inner-the-role-of-the-teacher",
+ "label": "The role of the teacher",
+ "origin": "learning-approach",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "item",
+   "type": "inline",
+   "label": "Item 1"
+  },
+  {
+   "key": "item_2",
+   "type": "inline",
+   "label": "Item 2"
+  },
+  {
+   "key": "item_3",
+   "type": "inline",
+   "label": "Item 3"
+  },
+  {
+   "key": "item_4",
+   "type": "inline",
+   "label": "Item 4"
+  },
+  {
+   "key": "item_5",
+   "type": "inline",
+   "label": "Item 5"
+  },
+  {
+   "key": "item_6",
+   "type": "inline",
+   "label": "Item 6"
+  },
+  {
+   "key": "item_7",
+   "type": "inline",
+   "label": "Item 7"
+  },
+  {
+   "key": "item_8",
+   "type": "inline",
+   "label": "Item 8"
+  },
+  {
+   "key": "item_9",
+   "type": "inline",
+   "label": "Item 9"
+  },
+  {
+   "key": "item_10",
+   "type": "inline",
+   "label": "Item 10"
+  },
+  {
+   "key": "item_11",
+   "type": "inline",
+   "label": "Item 11"
+  },
+  {
+   "key": "item_12",
+   "type": "inline",
+   "label": "Item 12"
+  },
+  {
+   "key": "item_13",
+   "type": "inline",
+   "label": "Item 13"
+  },
+  {
+   "key": "item_14",
+   "type": "inline",
+   "label": "Item 14"
+  },
+  {
+   "key": "item_15",
+   "type": "inline",
+   "label": "Item 15"
+  },
+  {
+   "key": "item_16",
+   "type": "inline",
+   "label": "Item 16"
+  },
+  {
+   "key": "item_17",
+   "type": "inline",
+   "label": "Item 17"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning-approach"
+ ]
+}

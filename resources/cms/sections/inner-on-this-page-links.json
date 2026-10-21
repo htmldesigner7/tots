@@ -1,0 +1,21 @@
+{
+ "key": "inner-on-this-page-links",
+ "label": "On-this-page links",
+ "origin": "learning",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "list",
+   "type": "list",
+   "label": "List"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning",
+  "campus-life",
+  "facilities",
+  "parents-corner"
+ ]
+}

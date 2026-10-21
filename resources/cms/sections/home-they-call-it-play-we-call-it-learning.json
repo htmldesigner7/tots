@@ -1,0 +1,49 @@
+{
+ "key": "home-they-call-it-play-we-call-it-learning",
+ "label": "They Call It Play. We Call It Learning.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "list",
+   "type": "list",
+   "label": "List"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": "approach",
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

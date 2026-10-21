@@ -1,0 +1,45 @@
+{
+ "heading_first_line": "Our Curriculum",
+ "heading_script_line": "Six Areas, One Joyful Journey.",
+ "body_text": "<p>Our curriculum is built on inquiry. Children explore the world through six areas of learning, woven together through themes and real experiences, never taught as isolated subjects.</p>",
+ "title": "Create",
+ "text": "I wonder. I imagine. I ask.",
+ "item": "→",
+ "title_2": "Explore",
+ "text_2": "I play. I investigate. I discover.",
+ "item_2": "→",
+ "title_3": "Reflect",
+ "text_3": "I think. I share. I make meaning.",
+ "items": [
+  {
+   "title": "Language & Literacy",
+   "text": "Listening, speaking, stories, Letterland phonics and early reading and writing."
+  },
+  {
+   "title": "Mathematical Thinking",
+   "text": "Number sense, patterns, shapes and measurement through hands-on, Singapore Math-inspired experiences."
+  },
+  {
+   "title": "Understanding the World",
+   "text": "Nature, people, communities and simple experiments."
+  },
+  {
+   "title": "Creative Development",
+   "text": "Art, music, dance, drama and construction."
+  },
+  {
+   "title": "Physical Development",
+   "text": "Gross and fine motor skills through movement and outdoor play."
+  },
+  {
+   "title": "Personal, Social & Emotional",
+   "text": "Confidence, friendships, self-regulation and responsibility."
+  }
+ ],
+ "text_4": "Inspired by the Super 3 approach and thoughtfully adapted for young children.",
+ "button": {
+  "label": "Explore Programmes",
+  "url": "/programs",
+  "new_tab": false
+ }
+}

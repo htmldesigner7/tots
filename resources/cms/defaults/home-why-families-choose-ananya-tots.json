@@ -1,0 +1,54 @@
+{
+ "heading_first_line": "Why Families Choose",
+ "heading_script_line": "Ananya Tots.",
+ "items": [
+  {
+   "image": {
+    "src": "assets/img/card-1.webp",
+    "media_id": null,
+    "alt": "Children playing and learning together at a colourful art table",
+    "w": 312,
+    "h": 390
+   },
+   "text": "Every child is valued & heard",
+   "title": "Unique Learners",
+   "text_2": "We respect every child’s voice, interests and individual pace."
+  },
+  {
+   "image": {
+    "src": "assets/img/card-2.webp",
+    "media_id": null,
+    "alt": "Cosy reading corner inviting children to explore books",
+    "w": 312,
+    "h": 390
+   },
+   "text": "Every child is valued & heard",
+   "title": "Joyful Exploration",
+   "text_2": "Through playful provocations, children explore, question and create in a calm, nurturing environment."
+  },
+  {
+   "image": {
+    "src": "assets/img/card-3.webp",
+    "media_id": null,
+    "alt": "Teacher listening warmly to a young girl",
+    "w": 312,
+    "h": 390
+   },
+   "text": "The power of community",
+   "title": "Strong Partnerships",
+   "text_2": "True to “it takes a village,” parents, teachers and children partner closely in the learning journey."
+  },
+  {
+   "image": {
+    "src": "assets/img/card-4.webp",
+    "media_id": null,
+    "alt": "Boy carefully stacking colourful building blocks",
+    "w": 312,
+    "h": 390
+   },
+   "text": "The power of community",
+   "title": "Holistic Growth",
+   "text_2": "We listen to families and work together to build the care, confidence and respect children need to flourish."
+  }
+ ]
+}

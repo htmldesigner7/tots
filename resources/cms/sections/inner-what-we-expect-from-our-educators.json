@@ -1,0 +1,28 @@
+{
+ "key": "inner-what-we-expect-from-our-educators",
+ "label": "What we expect from our educators",
+ "origin": "careers",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "list",
+   "type": "list",
+   "label": "List"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "careers"
+ ]
+}

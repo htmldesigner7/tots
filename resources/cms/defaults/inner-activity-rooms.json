@@ -1,0 +1,51 @@
+{
+ "heading_first_line": "Activity Rooms",
+ "heading_script_line": "Many Ways to Express an Idea.",
+ "body_text": "<p>Dedicated spaces where ideas become art, drama, music and shared meals.</p>",
+ "items": [
+  {
+   "image": {
+    "src": "assets/img/about/painting.webp",
+    "media_id": null,
+    "alt": "Two children painting together at a table of paint pots",
+    "w": 458,
+    "h": 498
+   },
+   "title": "Art Atelier",
+   "text": "Paint, clay, colour and open-ended materials for making ideas visible."
+  },
+  {
+   "image": {
+    "src": "assets/img/life-at-tots/act10.webp",
+    "media_id": null,
+    "alt": "Children gathered around a teacher acting out a story",
+    "w": 268,
+    "h": 232
+   },
+   "title": "Theatre",
+   "text": "A stage for imaginative and dramatic play."
+  },
+  {
+   "image": {
+    "src": "assets/img/life-at-tots/act13.webp",
+    "media_id": null,
+    "alt": "Girl dancing joyfully with her arms raised",
+    "w": 270,
+    "h": 232
+   },
+   "title": "Music & Dance Space",
+   "text": "Rhythm, songs and movement."
+  },
+  {
+   "image": {
+    "src": "assets/img/care-bg.webp",
+    "media_id": null,
+    "alt": "Paper-craft scene of children sharing a meal at a table",
+    "w": 836,
+    "h": 470
+   },
+   "title": "Dining Hall",
+   "text": "A warm space to eat together, build independence and learn about healthy food."
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "heading_first_line": "Learning Through",
+ "heading_script_line": "Wonder, Play & Purpose.",
+ "body_text": "<p>At Ananya Tots, childhood is not a race to academic achievement. It is a journey of joyful discovery, where children learn by playing, asking, making and reflecting.</p>",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/programs/panel-art.webp",
+  "media_id": null,
+  "alt": "Two children building a colourful block tower together, with a note reading Let’s do it together",
+  "w": 642,
+  "h": 581
+ },
+ "text": "We learn by doing."
+}

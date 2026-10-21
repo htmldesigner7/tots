@@ -1,0 +1,51 @@
+{
+ "key": "inner-daily-routine",
+ "label": "Daily routine",
+ "origin": "campus-life",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text 1"
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text_2",
+     "type": "inline",
+     "label": "Text 2"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": "daily-routine",
+ "dynamic": false,
+ "used_on": [
+  "campus-life"
+ ]
+}

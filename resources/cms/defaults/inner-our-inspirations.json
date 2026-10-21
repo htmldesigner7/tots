@@ -1,0 +1,87 @@
+{
+ "heading_first_line": "How Our Inspirations",
+ "heading_script_line": "Come Together.",
+ "body_text": "<p>We blend six world-renowned educational philosophies to create a holistic learning environment.</p>",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ },
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/about/e56.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 100
+   },
+   "title": "Reggio Emilia",
+   "text": "Sees children as capable explorers, learning through art, music and beautiful learning spaces."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e34.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 99
+   },
+   "title": "Maria Montessori",
+   "text": "Fosters independence and self-care with hands-on materials, at each child’s own pace."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e38.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 106,
+    "h": 100
+   },
+   "title": "Finnish ECEC",
+   "text": "Puts play, wellbeing and flexible routines first, without academic pressure."
+  }
+ ],
+ "image": {
+  "src": "assets/img/about/painting.webp",
+  "media_id": null,
+  "alt": "Two children painting together at a table full of colourful paint pots",
+  "w": 458,
+  "h": 498
+ },
+ "items_2": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic13.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 90,
+    "h": 96
+   },
+   "title": "Forest & Nature Pedagogy",
+   "text": "Connects children to nature through outdoor exploration, gardening and weather play."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e52.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 104,
+    "h": 100
+   },
+   "title": "Anji Play",
+   "text": "Encourages true child-led play and large-scale construction with minimal adult direction."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e48.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 108,
+    "h": 99
+   },
+   "title": "IB PYP",
+   "text": "Uses inquiry and investigation so children ask questions, reflect and take action."
+  }
+ ]
+}

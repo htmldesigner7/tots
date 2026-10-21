@@ -1,0 +1,28 @@
+{
+ "key": "inner-tell-us-a-little-about-your-little-one",
+ "label": "Tell Us a Little About Your Little One.",
+ "origin": "admissions",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  }
+ ],
+ "anchor": "enquiry",
+ "dynamic": true,
+ "used_on": [
+  "admissions"
+ ]
+}

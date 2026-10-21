@@ -1,0 +1,29 @@
+{
+ "key": "programme-tabs",
+ "label": "Programme tabs",
+ "origin": "programs",
+ "css": "inner",
+ "anchor": "programmes",
+ "fields": [
+  {"key": "items", "type": "repeater", "label": "Programmes", "item_label": "Programme", "fields": [
+    {"key": "tab_title", "type": "inline", "label": "Tab title"},
+    {"key": "tab_subtitle", "type": "inline", "label": "Tab subtitle"},
+    {"key": "slug", "type": "text", "label": "Tab ID (letters, numbers and dashes)", "help": "Used in links such as /programs#panel-nursery."},
+    {"key": "tab_image", "type": "image", "label": "Tab illustration", "decorative": true},
+    {"key": "selected", "type": "boolean", "label": "Open this tab first"},
+    {"key": "image", "type": "image", "label": "Panel photo", "decorative": false},
+    {"key": "eyebrow", "type": "inline", "label": "Eyebrow text"},
+    {"key": "heading_first_line", "type": "inline", "label": "Heading – first line"},
+    {"key": "heading_script_line", "type": "inline", "label": "Heading – script line"},
+    {"key": "body", "type": "richtext", "label": "Body text"},
+    {"key": "papers", "type": "repeater", "label": "Groups / stages", "item_label": "Group", "fields": [
+      {"key": "title", "type": "inline", "label": "Title"},
+      {"key": "subtitle", "type": "inline", "label": "Age / subtitle"},
+      {"key": "text", "type": "inline", "label": "Text"},
+      {"key": "points", "type": "list", "label": "Bullet points"},
+      {"key": "timing", "type": "inline", "label": "Timing"}
+    ]},
+    {"key": "button", "type": "link", "label": "Button"}
+  ]}
+ ]
+}

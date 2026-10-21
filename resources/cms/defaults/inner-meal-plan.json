@@ -1,0 +1,46 @@
+{
+ "heading_first_line": "Meal Plan",
+ "heading_script_line": "Food Is Part of Learning.",
+ "body_text": "<p>Our dining hall is a warm, joyful space where children eat together, serve themselves, pour their own water and practise table manners, without mealtimes becoming a struggle.</p>",
+ "items": [
+  {
+   "title": "Wholesome Platters",
+   "text": "Colourful, balanced meals from breakfast through lunch, so children discover new tastes at their own pace."
+  },
+  {
+   "title": "Healthy Habits",
+   "text": "Food-group visuals on the walls help children understand what a growing body needs."
+  }
+ ],
+ "title": "Weekly Menu",
+ "items_2": [
+  {
+   "text": "Day"
+  },
+  {
+   "text": "Menu"
+  }
+ ],
+ "items_3": [
+  {
+   "text": "Monday",
+   "text_2": "[Menu]"
+  },
+  {
+   "text": "Tuesday",
+   "text_2": "[Menu]"
+  },
+  {
+   "text": "Wednesday",
+   "text_2": "[Menu]"
+  },
+  {
+   "text": "Thursday",
+   "text_2": "[Menu]"
+  },
+  {
+   "text": "Friday",
+   "text_2": "[Menu]"
+  }
+ ]
+}

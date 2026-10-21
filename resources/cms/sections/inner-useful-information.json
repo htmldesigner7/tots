@@ -1,0 +1,52 @@
+{
+ "key": "inner-useful-information",
+ "label": "Useful information",
+ "origin": "parents",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "link_url",
+     "type": "url",
+     "label": "Link URL"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  }
+ ],
+ "anchor": "information",
+ "dynamic": false,
+ "used_on": [
+  "parents"
+ ]
+}

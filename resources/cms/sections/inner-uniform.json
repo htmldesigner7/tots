@@ -1,0 +1,34 @@
+{
+ "key": "inner-uniform",
+ "label": "Uniform",
+ "origin": "parents-corner",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  }
+ ],
+ "anchor": "uniform",
+ "dynamic": false,
+ "used_on": [
+  "parents-corner"
+ ]
+}

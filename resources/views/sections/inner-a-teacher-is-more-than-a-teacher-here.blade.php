@@ -1,0 +1,2 @@
+{{-- Generated from careers.html — design-matched section. --}}
+<section class="fl fl--tight" aria-label="A teacher is more than a teacher here"><div class="w"><div class="hx hx--c" data-anim="fade-up"><h2><span class="d">{!! $s->html('heading_first_line') !!}</span><span class="s">{!! $s->html('heading_script_line') !!}</span></h2><img class="stroke" src="{{ asset('assets/img/stroke.png') }}" width="588" height="54" alt="" aria-hidden="true" data-anim="draw"></div><div class="copy copy--c copy--lead" data-anim="fade-up">{!! $s->rich('body_text') !!}</div></div></section>

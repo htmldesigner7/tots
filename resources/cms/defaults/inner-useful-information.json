@@ -1,0 +1,38 @@
+{
+ "heading_first_line": "Useful Information",
+ "heading_script_line": "At One Place.",
+ "body_text": "<p>Everything you need for the school year, in one spot.</p>",
+ "items": [
+  {
+   "link_url": "#academic-calendar",
+   "text": "Academic Calendar"
+  },
+  {
+   "link_url": "#uniform",
+   "text": "Uniform Guidance"
+  },
+  {
+   "link_url": "#meals",
+   "text": "Meals & Dietary Guidance"
+  },
+  {
+   "link_url": "#transport",
+   "text": "Transport Information"
+  },
+  {
+   "link_url": "#handbook",
+   "text": "Parent Handbook"
+  },
+  {
+   "link_url": "#term-dates",
+   "text": "Holiday / Term Information"
+  }
+ ],
+ "image": {
+  "src": "assets/img/parents/spaces.webp",
+  "media_id": null,
+  "alt": "Sunlit classroom with reading nooks, round tables and an outdoor nature play area",
+  "w": 762,
+  "h": 696
+ }
+}

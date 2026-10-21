@@ -1,0 +1,62 @@
+{
+ "heading_first_line": "Different Stages",
+ "heading_script_line": "One Meaningful Approach",
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/about/e56.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 100
+   },
+   "title": "Play-Based Learning",
+   "text": "Children learn naturally through purposeful play, exploration, imagination and discovery."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e34.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 99
+   },
+   "title": "Experiential Learning",
+   "text": "Children learn by doing, experimenting and making meaning from real-world experiences."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e38.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 106,
+    "h": 100
+   },
+   "title": "Inquiry-Based Learning",
+   "text": "The Super3 cycle of Create, Explore and Reflect, adapted for young children."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e52.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 104,
+    "h": 100
+   },
+   "title": "Integrated Learning",
+   "text": "Language, maths, science, creativity and social-emotional growth woven together through themes."
+  }
+ ],
+ "image": {
+  "src": "assets/img/programs/reading-corner.webp",
+  "media_id": null,
+  "alt": "Cosy reading corner with wooden bookshelves, cushions and plants",
+  "w": 404,
+  "h": 433
+ },
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ }
+}

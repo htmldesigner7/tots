@@ -1,0 +1,41 @@
+{
+ "key": "inner-who-we-are-looking-for",
+ "label": "Who we are looking for",
+ "origin": "careers",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "item",
+     "type": "inline",
+     "label": "Item"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "careers"
+ ]
+}

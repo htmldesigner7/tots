@@ -1,0 +1,55 @@
+{
+ "heading_first_line": "Our Learning",
+ "heading_script_line": "Environment.",
+ "text": "Every classroom layout at Ananya Tots has a clear purpose. Classes of 25 learners work in small groups of 5 to 8, moving between learning centres that explore the same core concept through movement, touch, imagination and collaboration.",
+ "button": {
+  "label": "Our Campus",
+  "url": "/life-at-tots#infrastructure",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/campus-3.webp",
+  "media_id": null,
+  "alt": "Children making art together at a craft table",
+  "w": 416,
+  "h": 383
+ },
+ "title": "1. Diverse Learning Spaces",
+ "text_2": "Art, music, storytelling, sensory exploration and hands-on experiences",
+ "image_2": {
+  "src": "assets/img/campus-2.webp",
+  "media_id": null,
+  "alt": "Girl absorbed in a picture book in a reading nook",
+  "w": 416,
+  "h": 383
+ },
+ "title_2": "2. Essential Skills",
+ "text_3": "Seeing, hearing, feeling, communicating and reflecting",
+ "image_3": {
+  "src": "assets/img/campus-1.webp",
+  "media_id": null,
+  "alt": "Children playing together on swings and rainbow climbing equipment",
+  "w": 416,
+  "h": 383
+ },
+ "title_3": "3. Social & Personal Growth",
+ "text_4": "Collaborating with peers while growing independent and self-aware",
+ "image_4": {
+  "src": "assets/img/env-facilitation.webp",
+  "media_id": null,
+  "alt": "Educator kneeling to talk with a young girl and her mother",
+  "w": 642,
+  "h": 480
+ },
+ "title_4": "4. Thoughtful Facilitation",
+ "text_5": "Educators observe each child’s interests and needs to guide progress",
+ "image_5": {
+  "src": "assets/img/env-centres.webp",
+  "media_id": null,
+  "alt": "Small group of children exploring pine cones with a magnifying glass alongside an educator",
+  "w": 642,
+  "h": 480
+ },
+ "title_5": "5. Learning Centres",
+ "text_6": "One idea, many ways in: groups of 5 to 8"
+}

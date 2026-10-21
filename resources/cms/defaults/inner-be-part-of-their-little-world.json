@@ -1,0 +1,54 @@
+{
+ "heading_first_line": "Be Part Of",
+ "heading_script_line": "Their Little World.",
+ "items": [
+  {
+   "image": {
+    "src": "assets/img/parents/c15.webp",
+    "media_id": null,
+    "alt": "Parents and children at a workshop activity",
+    "w": 388,
+    "h": 422
+   },
+   "title": "Parenting Workshops",
+   "text": "Regular sessions that help parents understand and respond to their child’s needs, to raise confident and secure children.",
+   "button": {
+    "label": "Learn More",
+    "url": "/contact#enquiry",
+    "new_tab": false
+   }
+  },
+  {
+   "image": {
+    "src": "assets/img/parents/c16.webp",
+    "media_id": null,
+    "alt": "Educator listening to a young girl",
+    "w": 376,
+    "h": 420
+   },
+   "title": "Child Development Support",
+   "text": "Professional guidance and interventions covering physical growth, dental care, speech and overall wellbeing.",
+   "button": {
+    "label": "Learn More",
+    "url": "/contact#enquiry",
+    "new_tab": false
+   }
+  },
+  {
+   "image": {
+    "src": "assets/img/parents/c17.webp",
+    "media_id": null,
+    "alt": "Boy building with colourful blocks",
+    "w": 392,
+    "h": 416
+   },
+   "title": "An Open Community",
+   "text": "Parents take an active part in community fairs, celebrations and special events through the year.",
+   "button": {
+    "label": "Learn More",
+    "url": "/contact#enquiry",
+    "new_tab": false
+   }
+  }
+ ]
+}

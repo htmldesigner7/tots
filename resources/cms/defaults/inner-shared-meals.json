@@ -1,0 +1,64 @@
+{
+ "heading_first_line": "Shared Meals.",
+ "heading_script_line": "A Sense of Belonging",
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic11.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 102,
+    "h": 96
+   },
+   "title": "A Joyful Dining Hall",
+   "text": "A warm space where food becomes part of learning and independence."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e52.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 104,
+    "h": 100
+   },
+   "title": "Life Skills",
+   "text": "Children serve themselves, use cutlery, pour water and practise table manners."
+  }
+ ],
+ "image": {
+  "src": "assets/img/life-at-tots/shared.webp",
+  "media_id": null,
+  "alt": "Children sitting together in a warm, cosy classroom",
+  "w": 395,
+  "h": 458
+ },
+ "items_2": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic13.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 90,
+    "h": 96
+   },
+   "title": "Balanced Nutrition",
+   "text": "Wholesome, planned platters help children explore tastes and textures at their own pace."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e38.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 106,
+    "h": 100
+   },
+   "title": "A Happy Relationship With Food",
+   "text": "Children leave nourished, confident and well-mannered, and enjoy their food."
+  }
+ ],
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ }
+}

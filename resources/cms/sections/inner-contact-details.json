@@ -1,0 +1,37 @@
+{
+ "key": "inner-contact-details",
+ "label": "Contact details",
+ "origin": "contact",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "heading",
+     "type": "inline",
+     "label": "Heading"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "contact"
+ ]
+}

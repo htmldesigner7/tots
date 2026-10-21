@@ -1,0 +1,43 @@
+{
+ "heading_first_line": "Let’s Get To",
+ "heading_script_line": "Know Each Other",
+ "body_text": "<p>Our admission journey is simple and personal. Fill in the enquiry form online to schedule a personalised school tour, where you can explore our learning environments, meet our educators and experience our play-based, experiential approach first-hand.</p>",
+ "items": [
+  {
+   "background_image": {
+    "src": "assets/img/admissions/s1.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "title": "1. Send an Enquiry",
+   "text": "Fill in the enquiry form online."
+  },
+  {
+   "background_image": {
+    "src": "assets/img/admissions/s2.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "title": "2. Connect With Our Team",
+   "text": "We call you to schedule a personalised school tour."
+  },
+  {
+   "background_image": {
+    "src": "assets/img/admissions/s3.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "title": "3. Visit Us",
+   "text": "Explore our spaces, meet our educators and see play-based learning first-hand."
+  },
+  {
+   "background_image": {
+    "src": "assets/img/admissions/s4.webp",
+    "media_id": null,
+    "alt": ""
+   },
+   "title": "4. Next Step",
+   "text": "We guide you through the admission process."
+  }
+ ]
+}

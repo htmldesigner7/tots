@@ -1,0 +1,17 @@
+{
+ "heading_first_line": "A Childhood Filled",
+ "heading_script_line": "With Wonder, Play & Purpose.",
+ "body_text": "<p>Our motto is simple: learning through wonder, play and purpose. Ananya Tots is a play-based, experiential and child-centred preschool, partnering with families to build confidence, kindness and a lifelong love of learning.</p>",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/about/hero.webp",
+  "media_id": null,
+  "alt": "Smiling little girl looking up through a magnifying glass among leaves and flowers, with a note reading Curious, Confident, Kind, Creative",
+  "w": 872,
+  "h": 556
+ }
+}

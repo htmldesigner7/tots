@@ -1,0 +1,25 @@
+{
+ "text": "Ananya Tots · Play-Based Preschool, Mother-Infant to K2",
+ "heading_first_line": "Little Moments.",
+ "heading_script_line": "Big Beginnings.",
+ "text_2": "A play-based, experiential and child-centred preschool where children learn through curiosity, movement, exploration and meaningful relationships.",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/note.webp",
+  "media_id": null,
+  "alt": "Sticky note reading: Play is Meaningful.",
+  "w": 190,
+  "h": 214
+ },
+ "image_2": {
+  "src": "assets/img/hero-art.webp",
+  "media_id": null,
+  "alt": "Smiling preschool girl in a lavender uniform holding a sunny drawing book, beside a photo of a child building with colourful blocks",
+  "w": 1092,
+  "h": 615
+ }
+}

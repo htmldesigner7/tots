@@ -1,0 +1,52 @@
+{
+ "key": "inner-before-you-visit-a-few-helpful-answers--2",
+ "label": "Before You Visit A Few Helpful Answers.",
+ "origin": "parents",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "faq_items",
+   "type": "repeater",
+   "label": "Questions",
+   "item_label": "Question",
+   "fields": [
+    {
+     "key": "question",
+     "type": "inline",
+     "label": "Question"
+    },
+    {
+     "key": "answer",
+     "type": "richtext",
+     "label": "Answer"
+    }
+   ]
+  },
+  {
+   "key": "faq_first_open",
+   "type": "boolean",
+   "label": "Open the first question by default"
+  },
+  {
+   "key": "faq_schema",
+   "type": "boolean",
+   "label": "Output FAQPage structured data",
+   "help": "Only enable when this section is a genuine list of questions and answers. Google currently shows FAQ rich results mainly for authoritative government and health sites, so this is optional."
+  }
+ ],
+ "anchor": "faq",
+ "dynamic": false,
+ "used_on": [
+  "parents"
+ ]
+}

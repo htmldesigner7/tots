@@ -1,0 +1,82 @@
+{
+ "heading_first_line": "Our Curriculum",
+ "heading_script_line": "Six Connected Areas.",
+ "body_text": "<p>Through inquiry, our learners go deep into understanding the world around them, language and literacy, mathematics, creative learning and physical development, all woven together with personal, social and emotional growth.</p>",
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/about/e34.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 99
+   },
+   "title": "Language & Literacy",
+   "text": "A language-rich world of stories, conversations, rhymes and Letterland phonics."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e38.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 106,
+    "h": 100
+   },
+   "title": "Mathematical Thinking",
+   "text": "Maths everywhere, through the Singapore Math Concrete–Pictorial–Abstract progression."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e48.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 108,
+    "h": 99
+   },
+   "title": "Understanding the World",
+   "text": "Themes children can touch, see, talk about, explore and enjoy."
+  }
+ ],
+ "image": {
+  "src": "assets/img/learning-approach/m3.webp",
+  "media_id": null,
+  "alt": "Boy carefully building a tower of colourful blocks",
+  "w": 392,
+  "h": 416
+ },
+ "items_2": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic13.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 90,
+    "h": 96
+   },
+   "title": "Physical Development",
+   "text": "Strength, balance, coordination and hand control through active play and self-help routines."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e42.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 104,
+    "h": 100
+   },
+   "title": "Creative Expression",
+   "text": "Art, music, dance and drama, with no single “right” way to create."
+  },
+  {
+   "icon": {
+    "src": "assets/img/parents/ic11.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 102,
+    "h": 96
+   },
+   "title": "Personal, Social & Emotional",
+   "text": "Feeling happy, safe, loved and connected, the foundation for all learning."
+  }
+ ]
+}

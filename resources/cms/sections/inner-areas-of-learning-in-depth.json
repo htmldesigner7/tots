@@ -1,0 +1,151 @@
+{
+ "key": "inner-areas-of-learning-in-depth",
+ "label": "Areas of learning in depth",
+ "origin": "learning-approach",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image 1",
+   "decorative": false
+  },
+  {
+   "key": "eyebrow_text",
+   "type": "inline",
+   "label": "Eyebrow text 1"
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line 1"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line 1"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text 1"
+  },
+  {
+   "key": "title",
+   "type": "inline",
+   "label": "Title 1"
+  },
+  {
+   "key": "subtitle",
+   "type": "inline",
+   "label": "Subtitle 1"
+  },
+  {
+   "key": "list_items",
+   "type": "list",
+   "label": "List items 1"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button 1"
+  },
+  {
+   "key": "image_2",
+   "type": "image",
+   "label": "Image 2",
+   "decorative": false
+  },
+  {
+   "key": "eyebrow_text_2",
+   "type": "inline",
+   "label": "Eyebrow text 2"
+  },
+  {
+   "key": "heading_first_line_2",
+   "type": "inline",
+   "label": "Heading – first line 2"
+  },
+  {
+   "key": "heading_script_line_2",
+   "type": "inline",
+   "label": "Heading – script line 2"
+  },
+  {
+   "key": "body_text_2",
+   "type": "richtext",
+   "label": "Body text 2"
+  },
+  {
+   "key": "title_2",
+   "type": "inline",
+   "label": "Title 2"
+  },
+  {
+   "key": "subtitle_2",
+   "type": "inline",
+   "label": "Subtitle 2"
+  },
+  {
+   "key": "list_items_2",
+   "type": "list",
+   "label": "List items 2"
+  },
+  {
+   "key": "button_2",
+   "type": "link",
+   "label": "Button 2"
+  },
+  {
+   "key": "image_3",
+   "type": "image",
+   "label": "Image 3",
+   "decorative": false
+  },
+  {
+   "key": "eyebrow_text_3",
+   "type": "inline",
+   "label": "Eyebrow text 3"
+  },
+  {
+   "key": "heading_first_line_3",
+   "type": "inline",
+   "label": "Heading – first line 3"
+  },
+  {
+   "key": "heading_script_line_3",
+   "type": "inline",
+   "label": "Heading – script line 3"
+  },
+  {
+   "key": "body_text_3",
+   "type": "richtext",
+   "label": "Body text 3"
+  },
+  {
+   "key": "title_3",
+   "type": "inline",
+   "label": "Title 3"
+  },
+  {
+   "key": "subtitle_3",
+   "type": "inline",
+   "label": "Subtitle 3"
+  },
+  {
+   "key": "list_items_3",
+   "type": "list",
+   "label": "List items 3"
+  },
+  {
+   "key": "button_3",
+   "type": "link",
+   "label": "Button 3"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "learning-approach"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "image": {
+  "src": "assets/img/care-bg.webp",
+  "media_id": null,
+  "alt": "Paper-craft scene of a wooden spoon tree, a napkin house and a plate framing children sharing a meal — Growing independence, Sharing moments, Learning table manners",
+  "w": 1560,
+  "h": 878
+ },
+ "heading_first_line": "Play Is Meaningful.",
+ "heading_script_line": "Childhood Is Precious.",
+ "text": "And every child deserves to love their school. Through play, our learners understand the world and prepare for life. Come and see how learning, play and childhood come together at Ananya Tots.",
+ "button": {
+  "label": "Book a Visit",
+  "url": "/contact#enquiry",
+  "new_tab": false
+ }
+}

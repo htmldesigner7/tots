@@ -1,0 +1,65 @@
+{
+ "heading_first_line": "Making Learning",
+ "heading_script_line": "Visible.",
+ "body_text": "<p>Children’s learning shows up in many ways: a conversation, a drawing, a construction, a question or a new attempt. We don’t just record what children did; we try to understand the thinking behind it.</p>",
+ "button": {
+  "label": "Explore More",
+  "url": "/learning-approach",
+  "new_tab": false
+ },
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/about/e42.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 104,
+    "h": 100
+   },
+   "title": "Observe",
+   "text": "Teachers notice what children are interested in, what they know and how they are thinking."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e34.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 99
+   },
+   "title": "Document",
+   "text": "Photographs, children’s words, work samples, learning stories and teacher reflections."
+  }
+ ],
+ "image": {
+  "src": "assets/img/learning-approach/m2.webp",
+  "media_id": null,
+  "alt": "Educator listening closely to a young girl",
+  "w": 376,
+  "h": 420
+ },
+ "items_2": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic12.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 98,
+    "h": 95
+   },
+   "title": "Respond",
+   "text": "Documentation helps teachers plan experiences that follow children’s interests and needs."
+  },
+  {
+   "icon": {
+    "src": "assets/img/about/e56.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 96,
+    "h": 100
+   },
+   "title": "Revisit",
+   "text": "Children look back at their learning, revisit ideas and see how their thinking has grown."
+  }
+ ]
+}

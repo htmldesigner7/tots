@@ -1,0 +1,113 @@
+{
+ "key": "home-our-learning-environment",
+ "label": "Our Learning Environment.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image 1",
+   "decorative": false
+  },
+  {
+   "key": "title",
+   "type": "inline",
+   "label": "Title 1"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "image_2",
+   "type": "image",
+   "label": "Image 2",
+   "decorative": false
+  },
+  {
+   "key": "title_2",
+   "type": "inline",
+   "label": "Title 2"
+  },
+  {
+   "key": "text_3",
+   "type": "inline",
+   "label": "Text 3"
+  },
+  {
+   "key": "image_3",
+   "type": "image",
+   "label": "Image 3",
+   "decorative": false
+  },
+  {
+   "key": "title_3",
+   "type": "inline",
+   "label": "Title 3"
+  },
+  {
+   "key": "text_4",
+   "type": "inline",
+   "label": "Text 4"
+  },
+  {
+   "key": "image_4",
+   "type": "image",
+   "label": "Image 4",
+   "decorative": false
+  },
+  {
+   "key": "title_4",
+   "type": "inline",
+   "label": "Title 4"
+  },
+  {
+   "key": "text_5",
+   "type": "inline",
+   "label": "Text 5"
+  },
+  {
+   "key": "image_5",
+   "type": "image",
+   "label": "Image 5",
+   "decorative": false
+  },
+  {
+   "key": "title_5",
+   "type": "inline",
+   "label": "Title 5"
+  },
+  {
+   "key": "text_6",
+   "type": "inline",
+   "label": "Text 6"
+  }
+ ],
+ "anchor": "campus",
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

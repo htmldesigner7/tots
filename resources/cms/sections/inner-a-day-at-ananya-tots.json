@@ -1,0 +1,46 @@
+{
+ "key": "inner-a-day-at-ananya-tots",
+ "label": "A day at Ananya Tots",
+ "origin": "life-at-tots",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": "day",
+ "dynamic": false,
+ "used_on": [
+  "life-at-tots"
+ ]
+}

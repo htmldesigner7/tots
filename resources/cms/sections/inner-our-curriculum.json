@@ -1,0 +1,96 @@
+{
+ "key": "inner-our-curriculum",
+ "label": "Our curriculum",
+ "origin": "learning",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "title",
+   "type": "inline",
+   "label": "Title 1"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "item",
+   "type": "inline",
+   "label": "Item 1"
+  },
+  {
+   "key": "title_2",
+   "type": "inline",
+   "label": "Title 2"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "item_2",
+   "type": "inline",
+   "label": "Item 2"
+  },
+  {
+   "key": "title_3",
+   "type": "inline",
+   "label": "Title 3"
+  },
+  {
+   "key": "text_3",
+   "type": "inline",
+   "label": "Text 3"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "text_4",
+   "type": "inline",
+   "label": "Text 4"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": "curriculum",
+ "dynamic": false,
+ "used_on": [
+  "learning"
+ ]
+}

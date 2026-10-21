@@ -1,0 +1,1 @@
+<nav class="crumb2" aria-label="Breadcrumb" data-anim="fade"><ol><li><a href="{{ url('/') }}">Home</a></li><li><span aria-current="page">{{ $crumbTitle ?? ($currentPage->title ?? '') }}</span></li></ol></nav>

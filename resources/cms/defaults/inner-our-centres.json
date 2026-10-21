@@ -1,0 +1,51 @@
+{
+ "heading_first_line": "Come Explore",
+ "heading_script_line": "Their Little World.",
+ "body_text": "<p>Please arrange your visit with our team before coming in.</p>",
+ "items": [
+  {
+   "image": {
+    "src": "assets/img/contact/house1.webp",
+    "media_id": null,
+    "alt": "Illustration of the Zundal centre",
+    "w": 262,
+    "h": 244
+   },
+   "text": "Zundal",
+   "text_2": "Opposite Ananya International School,<br/>Monarc Nexus Road, Zundal,<br/>Ahmedabad - 382421, Gujarat.",
+   "text_3": "",
+   "button": {
+    "label": "Arrange a Visit",
+    "url": "/contact?type=visit#enquiry",
+    "new_tab": false
+   },
+   "link": {
+    "label": "Get Directions",
+    "url": "#map-placeholder",
+    "new_tab": false
+   }
+  },
+  {
+   "image": {
+    "src": "assets/img/contact/house-lilapur.webp",
+    "media_id": null,
+    "alt": "Illustration of the Lilapur centre",
+    "w": 263,
+    "h": 246
+   },
+   "text": "Lilapur",
+   "text_2": "Opposite Serene 53,<br/>Behind Sardar Dham, Lilapur,<br/>Ahmedabad-380060, Gujarat.",
+   "text_3": "",
+   "button": {
+    "label": "Arrange a Visit",
+    "url": "/contact?type=visit#enquiry",
+    "new_tab": false
+   },
+   "link": {
+    "label": "Get Directions",
+    "url": "#map-placeholder",
+    "new_tab": false
+   }
+  }
+ ]
+}

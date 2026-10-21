@@ -1,0 +1,44 @@
+{
+ "key": "home-our-belief-about-children",
+ "label": "Our Belief About Children.",
+ "origin": "index",
+ "css": "home",
+ "fields": [
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text 1"
+  },
+  {
+   "key": "text_2",
+   "type": "inline",
+   "label": "Text 2"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": "about",
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "key": "inner-shared-meals",
+ "label": "Shared meals",
+ "origin": "life-at-tots",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items 1",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "items_2",
+   "type": "repeater",
+   "label": "Items 2",
+   "fields": [
+    {
+     "key": "icon",
+     "type": "image",
+     "label": "Icon",
+     "decorative": true
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "button",
+   "type": "link",
+   "label": "Button"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "life-at-tots"
+ ]
+}

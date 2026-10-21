@@ -1,0 +1,39 @@
+{
+ "key": "inner-how-we-see-a-child",
+ "label": "How we see a child",
+ "origin": "about",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "image",
+   "type": "image",
+   "label": "Image",
+   "decorative": false
+  },
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  }
+ ],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "about"
+ ]
+}

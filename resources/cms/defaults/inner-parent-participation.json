@@ -1,0 +1,25 @@
+{
+ "heading_first_line": "Parent Participation",
+ "heading_script_line": "Child – Parent – Teacher.",
+ "body_text": "<p>We see every child’s journey as a triangle of Child, Parent and Teacher. Our vision is for Ananya Tots to feel like a second home.</p>",
+ "title": "Parenting Workshops",
+ "text": "Regular sessions to help you understand and respond to your child’s needs.",
+ "title_2": "Child Development Support",
+ "text_2": "Guidance from child-development professionals on growth, dental care and speech and language.",
+ "image": {
+  "src": "assets/img/env-facilitation.webp",
+  "media_id": null,
+  "alt": "Educator kneeling to talk with a young girl and her mother",
+  "w": 642,
+  "h": 480
+ },
+ "title_3": "An Open Community",
+ "text_3": "You are invited to fairs, celebrations, special events and learning experiences.",
+ "title_4": "Continuous Communication",
+ "text_4": "Teachers and parents share observations and celebrate progress together.",
+ "button": {
+  "label": "Visit Parents’ Corner",
+  "url": "/parents-corner",
+  "new_tab": false
+ }
+}

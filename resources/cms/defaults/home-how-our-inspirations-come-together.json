@@ -1,0 +1,20 @@
+{
+ "image": {
+  "src": "assets/img/see-more.webp",
+  "media_id": null,
+  "alt": "Children exploring nature outdoors: gardening, painting at an easel and building with wooden blocks in a learning garden",
+  "w": 1536,
+  "h": 1024
+ },
+ "heading_first_line": "How Our Inspirations",
+ "heading_script_line": "Come Together.",
+ "text": "At Ananya Tots, we blend six world-renowned educational philosophies to create a holistic learning environment.",
+ "list": [
+  "Reggio Emilia",
+  "Montessori",
+  "Finnish ECEC",
+  "Forest & Nature Pedagogy",
+  "Anji Play",
+  "IB PYP"
+ ]
+}

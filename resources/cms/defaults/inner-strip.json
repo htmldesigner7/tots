@@ -1,0 +1,34 @@
+{
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/icon-kids.png",
+    "media_id": null,
+    "alt": "",
+    "w": 213,
+    "h": 114
+   },
+   "text": "Play-Based Learning"
+  },
+  {
+   "icon": {
+    "src": "assets/img/icon-book.png",
+    "media_id": null,
+    "alt": "",
+    "w": 141,
+    "h": 111
+   },
+   "text": "Experiential Learning"
+  },
+  {
+   "icon": {
+    "src": "assets/img/icon-hands.png",
+    "media_id": null,
+    "alt": "",
+    "w": 114,
+    "h": 111
+   },
+   "text": "Inquiry-Based Learning"
+  }
+ ]
+}

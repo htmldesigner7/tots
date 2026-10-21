@@ -1,0 +1,52 @@
+{
+ "key": "inner-be-part-of-their-little-world",
+ "label": "Be part of their little world",
+ "origin": "parents",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "image",
+     "type": "image",
+     "label": "Image",
+     "decorative": false
+    },
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    },
+    {
+     "key": "button",
+     "type": "link",
+     "label": "Button"
+    }
+   ],
+   "item_label": "Item"
+  }
+ ],
+ "anchor": "community",
+ "dynamic": false,
+ "used_on": [
+  "parents"
+ ]
+}

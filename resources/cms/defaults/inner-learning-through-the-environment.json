@@ -1,0 +1,18 @@
+{
+ "heading_first_line": "Learning Through",
+ "heading_script_line": "the Environment.",
+ "body_text": "<p>Our environment is designed to provoke curiosity rather than give all the answers. Thoughtfully placed materials invite children to touch, question, experiment and revisit, and to develop language, mathematical thinking, problem-solving, creativity and social understanding along the way.</p>",
+ "text": "“What can I do here?” “What will happen if…?” “What else can I discover?”",
+ "button": {
+  "label": "Explore Us",
+  "url": "/learning-approach",
+  "new_tab": false
+ },
+ "image": {
+  "src": "assets/img/life-at-tots/world.webp",
+  "media_id": null,
+  "alt": "Children painting at an easel and building with wooden blocks in a garden",
+  "w": 619,
+  "h": 554
+ }
+}

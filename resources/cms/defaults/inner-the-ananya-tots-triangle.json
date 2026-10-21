@@ -1,0 +1,44 @@
+{
+ "heading_first_line": "The Ananya Tots",
+ "heading_script_line": "Triangle.",
+ "body_text": "<p>Child, parent and teacher form one connected triangle that nurtures the whole child.</p>",
+ "text": "Child",
+ "text_2": "Parent",
+ "text_3": "Teacher",
+ "text_4": "The Ananya Tots<br/>Triangle",
+ "items": [
+  {
+   "icon": {
+    "src": "assets/img/parents/ic11.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 102,
+    "h": 96
+   },
+   "title": "A Shared Language",
+   "text": "When home and school share love, respect, care and encouragement, children feel secure to explore, make mistakes and grow into confident learners."
+  },
+  {
+   "icon": {
+    "src": "assets/img/parents/ic12.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 98,
+    "h": 95
+   },
+   "title": "Continuous Communication",
+   "text": "Teachers and parents keep sharing observations for consistent support at home and at school."
+  },
+  {
+   "icon": {
+    "src": "assets/img/parents/ic13.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 90,
+    "h": 96
+   },
+   "title": "A Community Around Every Child",
+   "text": "Ananya Tots goes beyond education to build a supportive community around every child."
+  }
+ ]
+}

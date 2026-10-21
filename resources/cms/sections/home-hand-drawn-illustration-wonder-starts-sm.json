@@ -1,0 +1,12 @@
+{
+ "key": "home-hand-drawn-illustration-wonder-starts-sm",
+ "label": "Hand-drawn illustration: Wonder starts small. Every corner invites discovery. Big ideas grow here.",
+ "origin": "index",
+ "css": "home",
+ "fields": [],
+ "anchor": null,
+ "dynamic": false,
+ "used_on": [
+  "index"
+ ]
+}

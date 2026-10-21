@@ -1,0 +1,51 @@
+{
+ "key": "inner-parent-communication",
+ "label": "Parent communication",
+ "origin": "parents-corner",
+ "css": "inner",
+ "fields": [
+  {
+   "key": "heading_first_line",
+   "type": "inline",
+   "label": "Heading – first line"
+  },
+  {
+   "key": "heading_script_line",
+   "type": "inline",
+   "label": "Heading – script line"
+  },
+  {
+   "key": "body_text",
+   "type": "richtext",
+   "label": "Body text"
+  },
+  {
+   "key": "items",
+   "type": "repeater",
+   "label": "Items",
+   "fields": [
+    {
+     "key": "title",
+     "type": "inline",
+     "label": "Title"
+    },
+    {
+     "key": "text",
+     "type": "inline",
+     "label": "Text"
+    }
+   ],
+   "item_label": "Item"
+  },
+  {
+   "key": "text",
+   "type": "inline",
+   "label": "Text"
+  }
+ ],
+ "anchor": "communication",
+ "dynamic": false,
+ "used_on": [
+  "parents-corner"
+ ]
+}

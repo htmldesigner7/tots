@@ -1,0 +1,52 @@
+{
+ "items": [
+  {
+   "link_url": "#schedule",
+   "icon": {
+    "src": "assets/img/parents/q1.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 60,
+    "h": 63
+   },
+   "title": "Programme Timings",
+   "text": "View your child’s programme schedule."
+  },
+  {
+   "link_url": "#community",
+   "icon": {
+    "src": "assets/img/parents/q2.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 60,
+    "h": 62
+   },
+   "title": "Family Participation",
+   "text": "Discover ways to take part in school life."
+  },
+  {
+   "link_url": "#information",
+   "icon": {
+    "src": "assets/img/parents/q3.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 60,
+    "h": 61
+   },
+   "title": "Parent Resources",
+   "text": "Find useful information and guidance."
+  },
+  {
+   "link_url": "/contact",
+   "icon": {
+    "src": "assets/img/parents/q4.webp",
+    "media_id": null,
+    "alt": "",
+    "w": 60,
+    "h": 59
+   },
+   "title": "Contact the Team",
+   "text": "Ask a question or start a conversation."
+  }
+ ]
+}
